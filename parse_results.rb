@@ -33,7 +33,7 @@ module PhoronixResult
     def initialize(file = 'composite.xml', directories = %w[micro-ec2 small-ec2 medium-ec2 large-ec2] )
       @file = file
       @directories = directories
-      @phoronix_dir = %w[7zip gzip apache-bench php-benchmark stream-bench]
+      @phoronix_dir = %w[7zip gzip apache-bench php-benchmark stream-bench threaded-last]
       @results = Hash.new(0)
     end
 
@@ -78,15 +78,19 @@ module PhoronixResult
           if tests.values.size > 4
             (tests.values.size / 4).times do |i|
               csv << [tests.keys[i]] + tests.values[(i * 4)...((i + 1) * 4)]
+#							puts tests.keys[i]
             end
           else
             csv << [key] + tests.values
           end
-
         end
       end
+			CSV.open("threaded-all.csv", "wb") do |cs|
+				results[results.keys.last].each do |key, value|
+					cs << [key, value]
+				end
+			end
     end
-
   end
 end
 

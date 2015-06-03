@@ -1,0 +1,220 @@
+micro-Test: Read - Size Per Thread: 32MB - Thread Count: 4,4015.03
+micro-Test: Read - Size Per Thread: 32MB - Thread Count: 8,3938.36
+micro-Test: Read - Size Per Thread: 64MB - Thread Count: 4,4067.4
+micro-Test: Read - Size Per Thread: 64MB - Thread Count: 8,4165.3
+micro-Test: Read - Size Per Thread: 128MB - Thread Count: 4,4289.16
+micro-Test: Read - Size Per Thread: 128MB - Thread Count: 8,63.16
+micro-Test: Read - Size Per Thread: 256MB - Thread Count: 4,63.13
+micro-Test: Read - Size Per Thread: 256MB - Thread Count: 8,41.23
+micro-Test: Read - Size Per Thread: 32MB - Thread Count: 16,3822.28
+micro-Test: Read - Size Per Thread: 32MB - Thread Count: 32,1.02
+micro-Test: Read - Size Per Thread: 64MB - Thread Count: 16,1.02
+micro-Test: Read - Size Per Thread: 64MB - Thread Count: 32,1.02
+micro-Test: Write - Size Per Thread: 32MB - Thread Count: 4,0.07
+micro-Test: Write - Size Per Thread: 32MB - Thread Count: 8,0.08
+micro-Test: Write - Size Per Thread: 64MB - Thread Count: 4,0.07
+micro-Test: Write - Size Per Thread: 64MB - Thread Count: 8,0.08
+micro-Test: Read - Size Per Thread: 128MB - Thread Count: 16,1.01
+micro-Test: Read - Size Per Thread: 128MB - Thread Count: 32,1.02
+micro-Test: Read - Size Per Thread: 256MB - Thread Count: 16,1.02
+micro-Test: Read - Size Per Thread: 256MB - Thread Count: 32,1.02
+micro-Test: Write - Size Per Thread: 128MB - Thread Count: 4,0.06
+micro-Test: Write - Size Per Thread: 128MB - Thread Count: 8,0.08
+micro-Test: Write - Size Per Thread: 256MB - Thread Count: 4,0.06
+micro-Test: Write - Size Per Thread: 256MB - Thread Count: 8,0.08
+micro-Test: Write - Size Per Thread: 32MB - Thread Count: 16,0.08
+micro-Test: Write - Size Per Thread: 32MB - Thread Count: 32,0.08
+micro-Test: Write - Size Per Thread: 64MB - Thread Count: 16,0.08
+micro-Test: Write - Size Per Thread: 64MB - Thread Count: 32,0.08
+micro-Test: Write - Size Per Thread: 128MB - Thread Count: 16,0.08
+small-Test: Read - Size Per Thread: 32MB - Thread Count: 4,3764.53
+small-Test: Read - Size Per Thread: 32MB - Thread Count: 8,3764.87
+small-Test: Read - Size Per Thread: 64MB - Thread Count: 4,3907.09
+small-Test: Read - Size Per Thread: 64MB - Thread Count: 8,3947.96
+small-Test: Read - Size Per Thread: 128MB - Thread Count: 4,4036.43
+small-Test: Read - Size Per Thread: 128MB - Thread Count: 8,3950.14
+small-Test: Read - Size Per Thread: 256MB - Thread Count: 4,4153.79
+small-Test: Read - Size Per Thread: 256MB - Thread Count: 8,22.59
+small-Test: Read - Size Per Thread: 32MB - Thread Count: 16,3529.0
+small-Test: Read - Size Per Thread: 32MB - Thread Count: 32,3530.65
+small-Test: Read - Size Per Thread: 64MB - Thread Count: 16,3653.87
+small-Test: Read - Size Per Thread: 64MB - Thread Count: 32,3.18
+small-Test: Write - Size Per Thread: 32MB - Thread Count: 4,0.23
+small-Test: Write - Size Per Thread: 32MB - Thread Count: 8,0.23
+small-Test: Write - Size Per Thread: 64MB - Thread Count: 4,0.23
+small-Test: Write - Size Per Thread: 64MB - Thread Count: 8,0.23
+small-Test: Read - Size Per Thread: 128MB - Thread Count: 16,3.18
+small-Test: Read - Size Per Thread: 128MB - Thread Count: 32,3.19
+small-Test: Read - Size Per Thread: 256MB - Thread Count: 16,3.19
+small-Test: Read - Size Per Thread: 256MB - Thread Count: 32,3.19
+small-Test: Write - Size Per Thread: 128MB - Thread Count: 4,0.23
+small-Test: Write - Size Per Thread: 128MB - Thread Count: 8,0.23
+small-Test: Write - Size Per Thread: 256MB - Thread Count: 4,0.23
+small-Test: Write - Size Per Thread: 256MB - Thread Count: 8,0.23
+small-Test: Write - Size Per Thread: 32MB - Thread Count: 16,0.23
+small-Test: Write - Size Per Thread: 32MB - Thread Count: 32,0.24
+small-Test: Write - Size Per Thread: 64MB - Thread Count: 16,0.23
+small-Test: Write - Size Per Thread: 64MB - Thread Count: 32,0.24
+small-Test: Write - Size Per Thread: 128MB - Thread Count: 16,0.23
+small-Test: Write - Size Per Thread: 128MB - Thread Count: 32,0.24
+small-Test: Write - Size Per Thread: 256MB - Thread Count: 16,0.23
+small-Test: Write - Size Per Thread: 256MB - Thread Count: 32,0.24
+small-Test: Random Read - Size Per Thread: 32MB - Thread Count: 4,2829.33
+small-Test: Random Read - Size Per Thread: 32MB - Thread Count: 8,2908.39
+small-Test: Random Read - Size Per Thread: 64MB - Thread Count: 4,2810.64
+small-Test: Random Read - Size Per Thread: 64MB - Thread Count: 8,2929.32
+small-Test: Random Read - Size Per Thread: 128MB - Thread Count: 4,2782.34
+small-Test: Random Read - Size Per Thread: 128MB - Thread Count: 8,2930.44
+small-Test: Random Read - Size Per Thread: 256MB - Thread Count: 4,2771.54
+small-Test: Random Read - Size Per Thread: 256MB - Thread Count: 8,1.23
+small-Test: Random Read - Size Per Thread: 32MB - Thread Count: 16,2828.55
+small-Test: Random Read - Size Per Thread: 32MB - Thread Count: 32,2911.12
+small-Test: Random Read - Size Per Thread: 64MB - Thread Count: 16,2779.71
+small-Test: Random Read - Size Per Thread: 64MB - Thread Count: 32,1.12
+small-Test: Random Write - Size Per Thread: 32MB - Thread Count: 4,0.2
+small-Test: Random Write - Size Per Thread: 32MB - Thread Count: 8,0.26
+small-Test: Random Write - Size Per Thread: 64MB - Thread Count: 4,0.2
+small-Test: Random Write - Size Per Thread: 64MB - Thread Count: 8,0.26
+small-Test: Random Read - Size Per Thread: 128MB - Thread Count: 16,1.19
+small-Test: Random Read - Size Per Thread: 128MB - Thread Count: 32,0.49
+small-Test: Random Read - Size Per Thread: 256MB - Thread Count: 16,0.49
+small-Test: Random Read - Size Per Thread: 256MB - Thread Count: 32,0.37
+small-Test: Random Write - Size Per Thread: 128MB - Thread Count: 4,0.2
+small-Test: Random Write - Size Per Thread: 128MB - Thread Count: 8,0.26
+small-Test: Random Write - Size Per Thread: 256MB - Thread Count: 4,0.2
+small-Test: Random Write - Size Per Thread: 256MB - Thread Count: 8,0.26
+small-Test: Random Write - Size Per Thread: 32MB - Thread Count: 16,0.26
+small-Test: Random Write - Size Per Thread: 32MB - Thread Count: 32,0.26
+small-Test: Random Write - Size Per Thread: 64MB - Thread Count: 16,0.26
+small-Test: Random Write - Size Per Thread: 64MB - Thread Count: 32,0.26
+small-Test: Random Write - Size Per Thread: 128MB - Thread Count: 16,0.26
+small-Test: Random Write - Size Per Thread: 128MB - Thread Count: 32,0.26
+small-Test: Random Write - Size Per Thread: 256MB - Thread Count: 16,0.26
+medium-Test: Read - Size Per Thread: 32MB - Thread Count: 4,6814.42
+medium-Test: Read - Size Per Thread: 32MB - Thread Count: 8,6462.33
+medium-Test: Read - Size Per Thread: 64MB - Thread Count: 4,6544.9
+medium-Test: Read - Size Per Thread: 64MB - Thread Count: 8,6644.49
+medium-Test: Read - Size Per Thread: 128MB - Thread Count: 4,6827.31
+medium-Test: Read - Size Per Thread: 128MB - Thread Count: 8,6832.99
+medium-Test: Read - Size Per Thread: 256MB - Thread Count: 4,7084.35
+medium-Test: Read - Size Per Thread: 256MB - Thread Count: 8,7002.54
+medium-Test: Read - Size Per Thread: 32MB - Thread Count: 16,6384.56
+medium-Test: Read - Size Per Thread: 32MB - Thread Count: 32,6363.13
+medium-Test: Read - Size Per Thread: 64MB - Thread Count: 16,6533.57
+medium-Test: Read - Size Per Thread: 64MB - Thread Count: 32,6297.23
+medium-Test: Write - Size Per Thread: 32MB - Thread Count: 4,0.23
+medium-Test: Write - Size Per Thread: 32MB - Thread Count: 8,0.25
+medium-Test: Write - Size Per Thread: 64MB - Thread Count: 4,0.23
+medium-Test: Write - Size Per Thread: 64MB - Thread Count: 8,0.25
+medium-Test: Read - Size Per Thread: 128MB - Thread Count: 16,6475.52
+medium-Test: Read - Size Per Thread: 128MB - Thread Count: 32,3.2
+medium-Test: Read - Size Per Thread: 256MB - Thread Count: 16,3.2
+medium-Test: Read - Size Per Thread: 256MB - Thread Count: 32,3.2
+medium-Test: Write - Size Per Thread: 128MB - Thread Count: 4,0.23
+medium-Test: Write - Size Per Thread: 128MB - Thread Count: 8,0.25
+medium-Test: Write - Size Per Thread: 256MB - Thread Count: 4,0.23
+medium-Test: Write - Size Per Thread: 256MB - Thread Count: 8,0.24
+medium-Test: Write - Size Per Thread: 32MB - Thread Count: 16,0.25
+medium-Test: Write - Size Per Thread: 32MB - Thread Count: 32,0.26
+medium-Test: Write - Size Per Thread: 64MB - Thread Count: 16,0.25
+medium-Test: Write - Size Per Thread: 64MB - Thread Count: 32,0.26
+medium-Test: Write - Size Per Thread: 128MB - Thread Count: 16,0.25
+medium-Test: Write - Size Per Thread: 128MB - Thread Count: 32,0.26
+medium-Test: Write - Size Per Thread: 256MB - Thread Count: 16,0.25
+medium-Test: Write - Size Per Thread: 256MB - Thread Count: 32,0.26
+medium-Test: Random Read - Size Per Thread: 32MB - Thread Count: 4,5015.31
+medium-Test: Random Read - Size Per Thread: 32MB - Thread Count: 8,4871.43
+medium-Test: Random Read - Size Per Thread: 64MB - Thread Count: 4,4739.96
+medium-Test: Random Read - Size Per Thread: 64MB - Thread Count: 8,4781.49
+medium-Test: Random Read - Size Per Thread: 128MB - Thread Count: 4,4714.15
+medium-Test: Random Read - Size Per Thread: 128MB - Thread Count: 8,4620.5
+medium-Test: Random Read - Size Per Thread: 256MB - Thread Count: 4,4545.61
+medium-Test: Random Read - Size Per Thread: 256MB - Thread Count: 8,4661.79
+medium-Test: Random Read - Size Per Thread: 32MB - Thread Count: 16,4829.9
+medium-Test: Random Read - Size Per Thread: 32MB - Thread Count: 32,4916.78
+medium-Test: Random Read - Size Per Thread: 64MB - Thread Count: 16,4716.85
+medium-Test: Random Read - Size Per Thread: 64MB - Thread Count: 32,4804.52
+medium-Test: Random Write - Size Per Thread: 32MB - Thread Count: 4,0.2
+medium-Test: Random Write - Size Per Thread: 32MB - Thread Count: 8,0.24
+medium-Test: Random Write - Size Per Thread: 64MB - Thread Count: 4,0.2
+medium-Test: Random Write - Size Per Thread: 64MB - Thread Count: 8,0.24
+medium-Test: Random Read - Size Per Thread: 128MB - Thread Count: 16,4732.99
+medium-Test: Random Read - Size Per Thread: 128MB - Thread Count: 32,1.58
+medium-Test: Random Read - Size Per Thread: 256MB - Thread Count: 16,1.59
+medium-Test: Random Read - Size Per Thread: 256MB - Thread Count: 32,0.48
+medium-Test: Random Write - Size Per Thread: 128MB - Thread Count: 4,0.2
+medium-Test: Random Write - Size Per Thread: 128MB - Thread Count: 8,0.24
+medium-Test: Random Write - Size Per Thread: 256MB - Thread Count: 4,0.2
+medium-Test: Random Write - Size Per Thread: 256MB - Thread Count: 8,0.24
+medium-Test: Random Write - Size Per Thread: 32MB - Thread Count: 16,0.26
+medium-Test: Random Write - Size Per Thread: 32MB - Thread Count: 32,0.28
+medium-Test: Random Write - Size Per Thread: 64MB - Thread Count: 16,0.25
+medium-Test: Random Write - Size Per Thread: 64MB - Thread Count: 32,0.28
+medium-Test: Random Write - Size Per Thread: 128MB - Thread Count: 16,0.25
+medium-Test: Random Write - Size Per Thread: 128MB - Thread Count: 32,0.28
+medium-Test: Random Write - Size Per Thread: 256MB - Thread Count: 16,0.26
+medium-Test: Random Write - Size Per Thread: 256MB - Thread Count: 32,0.28
+large-Test: Read - Size Per Thread: 32MB - Thread Count: 4,4548.91
+large-Test: Read - Size Per Thread: 32MB - Thread Count: 8,4663.74
+large-Test: Read - Size Per Thread: 64MB - Thread Count: 4,4660.09
+large-Test: Read - Size Per Thread: 64MB - Thread Count: 8,4818.14
+large-Test: Read - Size Per Thread: 128MB - Thread Count: 4,4918.04
+large-Test: Read - Size Per Thread: 128MB - Thread Count: 8,4907.31
+large-Test: Read - Size Per Thread: 256MB - Thread Count: 4,4915.59
+large-Test: Read - Size Per Thread: 256MB - Thread Count: 8,4916.98
+large-Test: Read - Size Per Thread: 32MB - Thread Count: 16,4467.19
+large-Test: Read - Size Per Thread: 32MB - Thread Count: 32,4313.36
+large-Test: Read - Size Per Thread: 64MB - Thread Count: 16,4626.53
+large-Test: Read - Size Per Thread: 64MB - Thread Count: 32,4311.35
+large-Test: Write - Size Per Thread: 32MB - Thread Count: 4,0.23
+large-Test: Write - Size Per Thread: 32MB - Thread Count: 8,0.25
+large-Test: Write - Size Per Thread: 64MB - Thread Count: 4,0.23
+large-Test: Write - Size Per Thread: 64MB - Thread Count: 8,0.25
+large-Test: Read - Size Per Thread: 128MB - Thread Count: 16,4596.95
+large-Test: Read - Size Per Thread: 128MB - Thread Count: 32,4334.69
+large-Test: Read - Size Per Thread: 256MB - Thread Count: 16,4625.31
+large-Test: Read - Size Per Thread: 256MB - Thread Count: 32,3.2
+large-Test: Write - Size Per Thread: 128MB - Thread Count: 4,0.19
+large-Test: Write - Size Per Thread: 128MB - Thread Count: 8,0.25
+large-Test: Write - Size Per Thread: 256MB - Thread Count: 4,0.2
+large-Test: Write - Size Per Thread: 256MB - Thread Count: 8,0.25
+large-Test: Write - Size Per Thread: 32MB - Thread Count: 16,0.26
+large-Test: Write - Size Per Thread: 32MB - Thread Count: 32,0.26
+large-Test: Write - Size Per Thread: 64MB - Thread Count: 16,0.26
+large-Test: Write - Size Per Thread: 64MB - Thread Count: 32,0.26
+large-Test: Write - Size Per Thread: 128MB - Thread Count: 16,0.26
+large-Test: Write - Size Per Thread: 128MB - Thread Count: 32,0.26
+large-Test: Write - Size Per Thread: 256MB - Thread Count: 16,0.26
+large-Test: Write - Size Per Thread: 256MB - Thread Count: 32,0.26
+large-Test: Random Read - Size Per Thread: 32MB - Thread Count: 4,3368.32
+large-Test: Random Read - Size Per Thread: 32MB - Thread Count: 8,3352.94
+large-Test: Random Read - Size Per Thread: 64MB - Thread Count: 4,3231.39
+large-Test: Random Read - Size Per Thread: 64MB - Thread Count: 8,3255.78
+large-Test: Random Read - Size Per Thread: 128MB - Thread Count: 4,3142.29
+large-Test: Random Read - Size Per Thread: 128MB - Thread Count: 8,3186.58
+large-Test: Random Read - Size Per Thread: 256MB - Thread Count: 4,3106.05
+large-Test: Random Read - Size Per Thread: 256MB - Thread Count: 8,3146.67
+large-Test: Random Read - Size Per Thread: 32MB - Thread Count: 16,3370.74
+large-Test: Random Read - Size Per Thread: 32MB - Thread Count: 32,3350.64
+large-Test: Random Read - Size Per Thread: 64MB - Thread Count: 16,3241.31
+large-Test: Random Read - Size Per Thread: 64MB - Thread Count: 32,3226.37
+large-Test: Random Write - Size Per Thread: 32MB - Thread Count: 4,0.2
+large-Test: Random Write - Size Per Thread: 32MB - Thread Count: 8,0.24
+large-Test: Random Write - Size Per Thread: 64MB - Thread Count: 4,0.2
+large-Test: Random Write - Size Per Thread: 64MB - Thread Count: 8,0.24
+large-Test: Random Read - Size Per Thread: 128MB - Thread Count: 16,3160.08
+large-Test: Random Read - Size Per Thread: 128MB - Thread Count: 32,3189.05
+large-Test: Random Read - Size Per Thread: 256MB - Thread Count: 16,3132.81
+large-Test: Random Read - Size Per Thread: 256MB - Thread Count: 32,1.6
+large-Test: Random Write - Size Per Thread: 128MB - Thread Count: 4,0.2
+large-Test: Random Write - Size Per Thread: 128MB - Thread Count: 8,0.24
+large-Test: Random Write - Size Per Thread: 256MB - Thread Count: 4,0.2
+large-Test: Random Write - Size Per Thread: 256MB - Thread Count: 8,0.24
+large-Test: Random Write - Size Per Thread: 32MB - Thread Count: 16,0.26
+large-Test: Random Write - Size Per Thread: 32MB - Thread Count: 32,0.28
+large-Test: Random Write - Size Per Thread: 64MB - Thread Count: 16,0.26
+large-Test: Random Write - Size Per Thread: 64MB - Thread Count: 32,0.28
+large-Test: Random Write - Size Per Thread: 128MB - Thread Count: 16,0.26
+large-Test: Random Write - Size Per Thread: 128MB - Thread Count: 32,0.28
+large-Test: Random Write - Size Per Thread: 256MB - Thread Count: 16,0.26
+large-Test: Random Write - Size Per Thread: 256MB - Thread Count: 32,0.28

@@ -1,0 +1,64 @@
+"",micro,small,medium,large
+7zip,3638.6,3426.4,6154.5,4916.5
+gzip,29.762,25.996000000000002,16.125999999999998,16.244
+apache-bench,1094.34,1625.0730000000003,7936.220000000001,8581.186
+php-benchmark,9727.7,18422.6,37342.7,91879.5
+micro-Type: Copy,1563.24,1572.639,1688.589,1656.2900000000002
+micro-Type: Scale,3826.8239999999996,3869.316,3567.56,3510.233
+micro-Type: Triad,10050.624,8869.741,7432.406999999999,7212.4220000000005
+micro-Type: Add,10376.658,10392.108999999999,10965.886999999999,10954.704000000002
+micro-Test: Read - Size Per Thread: 32MB - Thread Count: 4,4015.03,3938.36,4067.4,4165.3
+micro-Test: Read - Size Per Thread: 32MB - Thread Count: 8,4289.16,63.16,63.13,41.23
+micro-Test: Read - Size Per Thread: 64MB - Thread Count: 4,3822.28,1.02,1.02,1.02
+micro-Test: Read - Size Per Thread: 64MB - Thread Count: 8,0.07,0.08,0.07,0.08
+micro-Test: Read - Size Per Thread: 128MB - Thread Count: 4,1.01,1.02,1.02,1.02
+micro-Test: Read - Size Per Thread: 128MB - Thread Count: 8,0.06,0.08,0.06,0.08
+micro-Test: Read - Size Per Thread: 256MB - Thread Count: 4,0.08,0.08,0.08,0.08
+micro-Test: Read - Size Per Thread: 256MB - Thread Count: 8,0.08,3764.53,3764.87,3907.09
+micro-Test: Read - Size Per Thread: 32MB - Thread Count: 16,3947.96,4036.43,3950.14,4153.79
+micro-Test: Read - Size Per Thread: 32MB - Thread Count: 32,22.59,3529.0,3530.65,3653.87
+micro-Test: Read - Size Per Thread: 64MB - Thread Count: 16,3.18,0.23,0.23,0.23
+micro-Test: Read - Size Per Thread: 64MB - Thread Count: 32,0.23,3.18,3.19,3.19
+micro-Test: Write - Size Per Thread: 32MB - Thread Count: 4,3.19,0.23,0.23,0.23
+micro-Test: Write - Size Per Thread: 32MB - Thread Count: 8,0.23,0.23,0.24,0.23
+micro-Test: Write - Size Per Thread: 64MB - Thread Count: 4,0.24,0.23,0.24,0.23
+micro-Test: Write - Size Per Thread: 64MB - Thread Count: 8,0.24,2829.33,2908.39,2810.64
+micro-Test: Read - Size Per Thread: 128MB - Thread Count: 16,2929.32,2782.34,2930.44,2771.54
+micro-Test: Read - Size Per Thread: 128MB - Thread Count: 32,1.23,2828.55,2911.12,2779.71
+micro-Test: Read - Size Per Thread: 256MB - Thread Count: 16,1.12,0.2,0.26,0.2
+micro-Test: Read - Size Per Thread: 256MB - Thread Count: 32,0.26,1.19,0.49,0.49
+micro-Test: Write - Size Per Thread: 128MB - Thread Count: 4,0.37,0.2,0.26,0.2
+micro-Test: Write - Size Per Thread: 128MB - Thread Count: 8,0.26,0.26,0.26,0.26
+micro-Test: Write - Size Per Thread: 256MB - Thread Count: 4,0.26,0.26,0.26,0.26
+micro-Test: Write - Size Per Thread: 256MB - Thread Count: 8,6814.42,6462.33,6544.9,6644.49
+micro-Test: Write - Size Per Thread: 32MB - Thread Count: 16,6827.31,6832.99,7084.35,7002.54
+micro-Test: Write - Size Per Thread: 32MB - Thread Count: 32,6384.56,6363.13,6533.57,6297.23
+micro-Test: Write - Size Per Thread: 64MB - Thread Count: 16,0.23,0.25,0.23,0.25
+micro-Test: Write - Size Per Thread: 64MB - Thread Count: 32,6475.52,3.2,3.2,3.2
+micro-Test: Write - Size Per Thread: 128MB - Thread Count: 16,0.23,0.25,0.23,0.24
+small-Test: Read - Size Per Thread: 32MB - Thread Count: 4,0.25,0.26,0.25,0.26
+small-Test: Read - Size Per Thread: 32MB - Thread Count: 8,0.25,0.26,0.25,0.26
+small-Test: Read - Size Per Thread: 64MB - Thread Count: 4,5015.31,4871.43,4739.96,4781.49
+small-Test: Read - Size Per Thread: 64MB - Thread Count: 8,4714.15,4620.5,4545.61,4661.79
+small-Test: Read - Size Per Thread: 128MB - Thread Count: 4,4829.9,4916.78,4716.85,4804.52
+small-Test: Read - Size Per Thread: 128MB - Thread Count: 8,0.2,0.24,0.2,0.24
+small-Test: Read - Size Per Thread: 256MB - Thread Count: 4,4732.99,1.58,1.59,0.48
+small-Test: Read - Size Per Thread: 256MB - Thread Count: 8,0.2,0.24,0.2,0.24
+small-Test: Read - Size Per Thread: 32MB - Thread Count: 16,0.26,0.28,0.25,0.28
+small-Test: Read - Size Per Thread: 32MB - Thread Count: 32,0.25,0.28,0.26,0.28
+small-Test: Read - Size Per Thread: 64MB - Thread Count: 16,4548.91,4663.74,4660.09,4818.14
+small-Test: Read - Size Per Thread: 64MB - Thread Count: 32,4918.04,4907.31,4915.59,4916.98
+small-Test: Write - Size Per Thread: 32MB - Thread Count: 4,4467.19,4313.36,4626.53,4311.35
+small-Test: Write - Size Per Thread: 32MB - Thread Count: 8,0.23,0.25,0.23,0.25
+small-Test: Write - Size Per Thread: 64MB - Thread Count: 4,4596.95,4334.69,4625.31,3.2
+small-Test: Write - Size Per Thread: 64MB - Thread Count: 8,0.19,0.25,0.2,0.25
+small-Test: Read - Size Per Thread: 128MB - Thread Count: 16,0.26,0.26,0.26,0.26
+small-Test: Read - Size Per Thread: 128MB - Thread Count: 32,0.26,0.26,0.26,0.26
+small-Test: Read - Size Per Thread: 256MB - Thread Count: 16,3368.32,3352.94,3231.39,3255.78
+small-Test: Read - Size Per Thread: 256MB - Thread Count: 32,3142.29,3186.58,3106.05,3146.67
+small-Test: Write - Size Per Thread: 128MB - Thread Count: 4,3370.74,3350.64,3241.31,3226.37
+small-Test: Write - Size Per Thread: 128MB - Thread Count: 8,0.2,0.24,0.2,0.24
+small-Test: Write - Size Per Thread: 256MB - Thread Count: 4,3160.08,3189.05,3132.81,1.6
+small-Test: Write - Size Per Thread: 256MB - Thread Count: 8,0.2,0.24,0.2,0.24
+small-Test: Write - Size Per Thread: 32MB - Thread Count: 16,0.26,0.28,0.26,0.28
+small-Test: Write - Size Per Thread: 32MB - Thread Count: 32,0.26,0.28,0.26,0.28
