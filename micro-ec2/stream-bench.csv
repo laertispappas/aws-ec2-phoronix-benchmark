@@ -1,6 +1,6 @@
-stream-bench
-
- ,"stream-run-0","stream-run-1","stream-run-2","stream-run-3","stream-run-4","stream-run-5","stream-run-6","stream-run-7","stream-run-8","stream-run-9"
+stream-bench,,,,,,,,,,
+,,,,,,,,,,
+ ,stream-run-0,stream-run-1,stream-run-2,stream-run-3,stream-run-4,stream-run-5,stream-run-6,stream-run-7,stream-run-8,stream-run-9
 Processor,Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core)
 Motherboard,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU
 Chipset,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC
@@ -12,10 +12,9 @@ Kernel,3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (
 Compiler,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2
 File-System,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4
 System Layer,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon
-
- ,"stream-run-0","stream-run-1","stream-run-2","stream-run-3","stream-run-4","stream-run-5","stream-run-6","stream-run-7","stream-run-8","stream-run-9"
-"Stream - Type: Copy",1303.91,1555.16,1624.52,1629.42,1627.06,1631.59,1362.74,1631.67,1624.91,1641.42
-"Stream - Type: Scale",1304.00,1447.20,1632.39,1634.40,1630.61,1632.35,1558.23,1631.68,1624.94,1630.59
-"Stream - Type: Triad",1384.28,1672.24,1771.91,1722.85,1767.81,1724.40,1631.58,1804.94,1755.22,1650.66
-"Stream - Type: Add",1393.55,1519.64,1674.91,1670.16,1673.14,1725.80,1725.40,1760.70,1654.26,1765.34
-
+,,,,,,,,,,
+ ,stream-run-0,stream-run-1,stream-run-2,stream-run-3,stream-run-4,stream-run-5,stream-run-6,stream-run-7,stream-run-8,stream-run-9
+Stream - Type: Copy,1303.91,1555.16,1624.52,1629.42,1627.06,1631.59,1362.74,1631.67,1624.91,1641.42
+Stream - Type: Scale,1304,1447.2,1632.39,1634.4,1630.61,1632.35,1558.23,1631.68,1624.94,1630.59
+Stream - Type: Triad,1384.28,1672.24,1771.91,1722.85,1767.81,1724.4,1631.58,1804.94,1755.22,1650.66
+Stream - Type: Add,1393.55,1519.64,1674.91,1670.16,1673.14,1725.8,1725.4,1760.7,1654.26,1765.34

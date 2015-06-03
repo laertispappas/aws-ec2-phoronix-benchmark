@@ -1,6 +1,6 @@
-gzip
-
- ,"gzip-run-0","gzip-run-1","gzip-run-2","gzip-run-3","gzip-run-4","gzip-run-5","gzip-run-6","gzip-run-7","gzip-run-8","gzip-run-9"
+gzip,,,,,,,,,,
+,,,,,,,,,,
+ ,gzip-run-0,gzip-run-1,gzip-run-2,gzip-run-3,gzip-run-4,gzip-run-5,gzip-run-6,gzip-run-7,gzip-run-8,gzip-run-9
 Processor,Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores),Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores),Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores),Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores),Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores),Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores),Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores),Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores),Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores),Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores)
 Motherboard,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU
 Chipset,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC
@@ -12,7 +12,6 @@ Kernel,3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (
 Compiler,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2
 File-System,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4
 System Layer,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon
-
- ,"gzip-run-0","gzip-run-1","gzip-run-2","gzip-run-3","gzip-run-4","gzip-run-5","gzip-run-6","gzip-run-7","gzip-run-8","gzip-run-9"
-"Gzip Compression - 2GB File Compression",16.23,16.20,16.20,16.21,16.30,16.21,16.31,16.31,16.28,16.19
-
+,,,,,,,,,,
+ ,gzip-run-0,gzip-run-1,gzip-run-2,gzip-run-3,gzip-run-4,gzip-run-5,gzip-run-6,gzip-run-7,gzip-run-8,gzip-run-9
+Gzip Compression - 2GB File Compression,16.23,16.2,16.2,16.21,16.3,16.21,16.31,16.31,16.28,16.19

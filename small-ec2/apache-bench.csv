@@ -1,6 +1,6 @@
-apache-bench
-
- ,"apache-run-0","apache-run-1","apache-run-2","apache-run-3","apache-run-4","apache-run-5","apache-run-6","apache-run-7","apache-run-8","apache-run-9"
+apache-bench,,,,,,,,,,
+,,,,,,,,,,
+ ,apache-run-0,apache-run-1,apache-run-2,apache-run-3,apache-run-4,apache-run-5,apache-run-6,apache-run-7,apache-run-8,apache-run-9
 Processor,Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core)
 Motherboard,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU
 Chipset,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC
@@ -12,7 +12,6 @@ Kernel,3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (
 Compiler,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2
 File-System,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4
 System Layer,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon
-
- ,"apache-run-0","apache-run-1","apache-run-2","apache-run-3","apache-run-4","apache-run-5","apache-run-6","apache-run-7","apache-run-8","apache-run-9"
-"Apache Benchmark - Static Web Page Serving",3387.28,1414.83,1446.63,1414.60,1428.29,1445.45,1429.04,1438.98,1412.53,1433.10
-
+,,,,,,,,,,
+ ,apache-run-0,apache-run-1,apache-run-2,apache-run-3,apache-run-4,apache-run-5,apache-run-6,apache-run-7,apache-run-8,apache-run-9
+Apache Benchmark - Static Web Page Serving,3387.28,1414.83,1446.63,1414.6,1428.29,1445.45,1429.04,1438.98,1412.53,1433.1
