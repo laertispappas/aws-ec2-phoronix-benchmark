@@ -1,0 +1,35 @@
+kostas_new_iozone_large
+
+ ,"iozone"
+Processor,Intel Xeon E5-2670 v2 @ 2.49GHz (2 Cores)
+Motherboard,Xen HVM domU
+Chipset,Intel 440FX- 82441FX PMC
+Memory,8192MB
+Disk,8GB
+Graphics,Cirrus Logic GD 5446
+OS,Ubuntu 14.04
+Kernel,3.13.0-48-generic (x86_64)
+Compiler,GCC 4.8
+File-System,ext4
+System Layer,Xen HVM domU 4.2.amazon
+
+ ,"iozone"
+"IOzone - Record Size: 1MB - File Size: 2GB - Disk Test: Read Performance",7714.10
+"IOzone - Record Size: 1MB - File Size: 4GB - Disk Test: Read Performance",7657.41
+"IOzone - Record Size: 4Kb - File Size: 2GB - Disk Test: Read Performance",6234.85
+"IOzone - Record Size: 4Kb - File Size: 4GB - Disk Test: Read Performance",6238.86
+"IOzone - Record Size: 1MB - File Size: 2GB - Disk Test: Write Performance",82.18
+"IOzone - Record Size: 1MB - File Size: 4GB - Disk Test: Write Performance",82.47
+"IOzone - Record Size: 4Kb - File Size: 2GB - Disk Test: Write Performance",81.87
+"IOzone - Record Size: 4Kb - File Size: 4GB - Disk Test: Write Performance",82.31
+"IOzone - Record Size: 64Kb - File Size: 2GB - Disk Test: Read Performance",8168.24
+"IOzone - Record Size: 64Kb - File Size: 4GB - Disk Test: Read Performance",8148.49
+"IOzone - Record Size: 1MB - File Size: 512MB - Disk Test: Read Performance",3231.21
+"IOzone - Record Size: 4Kb - File Size: 512MB - Disk Test: Read Performance",3114.04
+"IOzone - Record Size: 64Kb - File Size: 2GB - Disk Test: Write Performance",1.02
+"IOzone - Record Size: 64Kb - File Size: 4GB - Disk Test: Write Performance",1.01
+"IOzone - Record Size: 1MB - File Size: 512MB - Disk Test: Write Performance",1.02
+"IOzone - Record Size: 4Kb - File Size: 512MB - Disk Test: Write Performance",1.02
+"IOzone - Record Size: 64Kb - File Size: 512MB - Disk Test: Read Performance",4019.90
+"IOzone - Record Size: 64Kb - File Size: 512MB - Disk Test: Write Performance",1.02
+

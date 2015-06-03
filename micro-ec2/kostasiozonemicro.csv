@@ -1,0 +1,41 @@
+kostas_iozone
+
+ ,"test_iozone"
+Processor,Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core)
+Motherboard,Xen HVM domU
+Chipset,Intel 440FX- 82441FX PMC
+Memory,1024MB
+Disk,20GB
+Graphics,Cirrus Logic GD 5446
+OS,Ubuntu 14.04
+Kernel,3.13.0-48-generic (x86_64)
+Compiler,GCC 4.8
+File-System,ext4
+System Layer,Xen HVM domU 4.2.amazon
+
+ ,"test_iozone"
+"IOzone - Record Size: 1MB - File Size: 2GB - Disk Test: Read Performance",61.15
+"IOzone - Record Size: 1MB - File Size: 4GB - Disk Test: Read Performance",60.20
+"IOzone - Record Size: 1MB - File Size: 8GB - Disk Test: Read Performance",59.88
+"IOzone - Record Size: 4Kb - File Size: 2GB - Disk Test: Read Performance",61.14
+"IOzone - Record Size: 4Kb - File Size: 4GB - Disk Test: Read Performance",43.22
+"IOzone - Record Size: 4Kb - File Size: 8GB - Disk Test: Read Performance",2.48
+"IOzone - Record Size: 1MB - File Size: 2GB - Disk Test: Write Performance",2.56
+"IOzone - Record Size: 1MB - File Size: 4GB - Disk Test: Write Performance",2.55
+"IOzone - Record Size: 1MB - File Size: 8GB - Disk Test: Write Performance",2.55
+"IOzone - Record Size: 4Kb - File Size: 2GB - Disk Test: Write Performance",2.55
+"IOzone - Record Size: 4Kb - File Size: 4GB - Disk Test: Write Performance",2.55
+"IOzone - Record Size: 4Kb - File Size: 8GB - Disk Test: Write Performance",2.55
+"IOzone - Record Size: 64Kb - File Size: 2GB - Disk Test: Read Performance",2.56
+"IOzone - Record Size: 64Kb - File Size: 4GB - Disk Test: Read Performance",2.51
+"IOzone - Record Size: 64Kb - File Size: 8GB - Disk Test: Read Performance",2.55
+"IOzone - Record Size: 1MB - File Size: 512MB - Disk Test: Read Performance",6922.35
+"IOzone - Record Size: 4Kb - File Size: 512MB - Disk Test: Read Performance",6343.07
+"IOzone - Record Size: 64Kb - File Size: 2GB - Disk Test: Write Performance",2.56
+"IOzone - Record Size: 64Kb - File Size: 4GB - Disk Test: Write Performance",2.55
+"IOzone - Record Size: 64Kb - File Size: 8GB - Disk Test: Write Performance",2.55
+"IOzone - Record Size: 1MB - File Size: 512MB - Disk Test: Write Performance",2.52
+"IOzone - Record Size: 4Kb - File Size: 512MB - Disk Test: Write Performance",2.59
+"IOzone - Record Size: 64Kb - File Size: 512MB - Disk Test: Read Performance",7170.86
+"IOzone - Record Size: 64Kb - File Size: 512MB - Disk Test: Write Performance",2.59
+
