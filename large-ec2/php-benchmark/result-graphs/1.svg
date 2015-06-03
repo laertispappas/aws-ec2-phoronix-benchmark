@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Phoronix Test Suite v5.6.0 (Dedilovo) [ http://www.phoronix-test-suite.com/ ]-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" font-family="sans-serif" viewbox="0 0 600 463" width="600" height="463" preserveAspectRatio="xMinYMin meet">
+  <rect x="1" y="1" width="598" height="462" fill="#FEFEFE" stroke="#757575" stroke-width="1"/>
+  <line x1="100" y1="64" x2="100" y2="424" stroke="#757575" stroke-width="1"/>
+  <line x1="100" y1="424" x2="585" y2="424" stroke="#757575" stroke-width="1"/>
+  <a xlink:href="http://www.phoronix-test-suite.com/" xlink:show="new">
+    <text x="585" y="59" font-size="7" fill="#065695" text-anchor="end" xlink:show="new">PHORONIX-TEST-SUITE.COM</text>
+  </a>
+  <polygon points="109,56 100,60.5 100,51.5" fill="#065695" stroke="#949494" stroke-width="1"/>
+  <text x="112" y="59" font-size="7" fill="#065695" text-anchor="start">Score, More Is Better</text>
+  <rect x="0" y="0" width="600" height="48" fill="#231f20"/>
+  <a xlink:href="http://openbenchmarking.org/test/pts/phpbench-1.1.0" xlink:show="new">
+    <text x="6" y="19" font-size="17" fill="#FEFEFE" text-anchor="start" xlink:show="new">PHPBench v0.8.1</text>
+  </a>
+  <text x="6" y="36" font-size="11" fill="#FEFEFE" text-anchor="start">PHP Benchmark Suite</text>
+  <a xlink:href="http://www.phoronix-test-suite.com/" xlink:show="new">
+    <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAoCAYAAAC7MHdZAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAADhgAAA4YBfPt6aAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAARTSURBVGiB7dlbqBVVHMfxj8dTpHIUNdMTBFlEUZYZZQhdCMKksuSAYb5EIGIXC4KI8sEgKLpJUBkUlRm9mKlREZRBhVbgg1QPmd2tUMOQ1KRIz+phzbZp9uyzZ8/MscD9hWHv+c9a/7Xmt9fl/197RAjBMLIIt6fud+Oq4WzwaNA7zP4nY3rq/udhbu+oMNyi/V/pwwMZ2xp8VKTysSraGNyZsW1TULSe2rtzDNAVrQRd0UrQFa0EXdFKMNTuOQIXYh6moT+x7RR3mvX4BMMaHSeMxmLMSvo0sYSPy/BZHZ1pJdrVeATntHg+F3eL4t0nCjhcXIoXcXpFPyNr6Auap+covIK3tBYszVlYJ4rWV1enUkzHe6oLVitp0frwARaW8DNPDAwn1NGphOOxGsfV6LMWGtOzRxxhF7Uo9424fg3iYpwhrm9ppmEtZuNQCz9jcX+bPu3AC7gW52WeHcDL2N7GRx4/laiTS0O0ReI6leVtLBFfJE0/VoojLM0VYnryeIv2+rC8TZ82i6JdkLEHzMDXbepXYSFmpu5346GmUiGEMSGEnaGZpSEEba7FOfX2hBDGJs+X5Txvx6ak7oaMfXOB/hS9puS0uySEsCpj25ZXvwfXY0pGy9V4ssAv8yyey9gmYn7Rn3YIssdI54qhx39OL67L2Pbgjg583CWuP/0p2wCezyl7WPu1ZVfyuTVj7xPXs4fxZRsfg9jfpkxpenF+xvYxfuvAxwG8jxtTtlYbyi6cWtDvO/hdPMZpMJBcRdiJLWJI9FLBOoXowaSM7dMSfrZk7ifhhFI9+ocduKdC/X5xFq3CuzilYn+O0INxGdsPJfz8mmMbJY6UNON1lu+u1LxmluFKvK6mmC/vBcrkktnw4CD2ilMkzWic2YHfIOacA/iuRL/SzMCyij5Q33H3zMx9I/j8qkXZLzr0vz65xosB7/g25UeKcecN4ohvsFT74DrLHDFePUIdos0RTx/SvJl8bhVHW3pnXS5mDtmpW4S9YqpXhNeS9p9I2SbgNHEmlKbqeVqfGKtlWZN8htT3BlPxaMV2i7Ihx3Z2VadVRJuBTZp3pXX4PHX/oOaY6RZxJEyu0H4RZufY8paMjsibnuM0ZwgNJotizcLNmnej/bg3Y/tFDB1WZuwDuFwciVtFof8Q4750fnkyThrqJXJorGm3Zuz7xPW22o8VQjhUIj/M43AIYe4Q+d4zBf00cs/GtaKm/oUQwlOh89xzTrZgXf8RHMQCvDFEmdvwWE3tleFb1YLlI9Qh2hZcglfblBsUj8jn48ca2u2E7eJyUGbHbqKsaH+KscsC8VAym1wPxVoxwF2KjfirZB/aEcTD0xVifl0mPcxlRAjhkH//6fC0+DJ57Bfjru9VjHVS9OLE5OpVz0YwKGYQrU46RuGmjO1DMYSamrLtEzeoa9IF80RbJP9Yp0tC98/iEnRFK0FXtBJ0RStBV7QSdEUrQVe0EvwNj8PjDA+lMHUAAAAASUVORK5CYII=" x="508" y="3.2" width="77" height="40"/>
+  </a>
+  <line x1="100" y1="100" x2="100" y2="393" stroke="#757575" stroke-width="10" stroke-dasharray="1,35"/>
+  <text x="95" y="80" font-size="10" fill="#231f20" text-anchor="end">phpbench-run-0</text>
+  <text x="95" y="116" font-size="10" fill="#231f20" text-anchor="end">phpbench-run-1</text>
+  <text x="95" y="152" font-size="10" fill="#231f20" text-anchor="end">phpbench-run-2</text>
+  <text x="95" y="188" font-size="10" fill="#231f20" text-anchor="end">phpbench-run-3</text>
+  <text x="95" y="224" font-size="10" fill="#231f20" text-anchor="end">phpbench-run-4</text>
+  <text x="95" y="260" font-size="10" fill="#231f20" text-anchor="end">phpbench-run-5</text>
+  <text x="95" y="296" font-size="10" fill="#231f20" text-anchor="end">phpbench-run-6</text>
+  <text x="95" y="332" font-size="10" fill="#231f20" text-anchor="end">phpbench-run-7</text>
+  <text x="95" y="368" font-size="10" fill="#231f20" text-anchor="end">phpbench-run-8</text>
+  <text x="95" y="404" font-size="10" fill="#231f20" text-anchor="end">phpbench-run-9</text>
+  <text x="181" y="439" font-size="10" fill="#065695" text-anchor="middle">20000</text>
+  <line x1="183" y1="64" x2="183" y2="419" stroke="#BABABA" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="183" y1="420" x2="183" y2="428" stroke="#757575" stroke-width="1"/>
+  <text x="262" y="439" font-size="10" fill="#065695" text-anchor="middle">40000</text>
+  <line x1="264" y1="64" x2="264" y2="419" stroke="#BABABA" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="264" y1="420" x2="264" y2="428" stroke="#757575" stroke-width="1"/>
+  <text x="343" y="439" font-size="10" fill="#065695" text-anchor="middle">60000</text>
+  <line x1="345" y1="64" x2="345" y2="419" stroke="#BABABA" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="345" y1="420" x2="345" y2="428" stroke="#757575" stroke-width="1"/>
+  <text x="424" y="439" font-size="10" fill="#065695" text-anchor="middle">80000</text>
+  <line x1="426" y1="64" x2="426" y2="419" stroke="#BABABA" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="426" y1="420" x2="426" y2="428" stroke="#757575" stroke-width="1"/>
+  <text x="505" y="439" font-size="10" fill="#065695" text-anchor="middle">100000</text>
+  <line x1="507" y1="64" x2="507" y2="419" stroke="#BABABA" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="507" y1="420" x2="507" y2="428" stroke="#757575" stroke-width="1"/>
+  <rect x="100" y="70" width="371" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="phpbench-run-0: 91852"/>
+  <text x="95" y="93.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 265.13</text>
+  <text x="466" y="88" font-size="10" fill="#FFFFFF" text-anchor="end">91852</text>
+  <rect x="100" y="106" width="371" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="phpbench-run-1: 91833"/>
+  <text x="95" y="129.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 239.66</text>
+  <text x="466" y="124" font-size="10" fill="#FFFFFF" text-anchor="end">91833</text>
+  <rect x="100" y="142" width="373" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="phpbench-run-2: 92192"/>
+  <text x="95" y="165.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 192.63</text>
+  <text x="468" y="160" font-size="10" fill="#FFFFFF" text-anchor="end">92192</text>
+  <rect x="100" y="178" width="371" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="phpbench-run-3: 91791"/>
+  <text x="95" y="201.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 383.71</text>
+  <text x="466" y="196" font-size="10" fill="#FFFFFF" text-anchor="end">91791</text>
+  <rect x="100" y="214" width="371" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="phpbench-run-4: 91805"/>
+  <text x="95" y="237.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 579.36</text>
+  <text x="466" y="232" font-size="10" fill="#FFFFFF" text-anchor="end">91805</text>
+  <rect x="100" y="250" width="372" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="phpbench-run-5: 92106"/>
+  <text x="95" y="273.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 6.94</text>
+  <text x="467" y="268" font-size="10" fill="#FFFFFF" text-anchor="end">92106</text>
+  <rect x="100" y="286" width="371" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="phpbench-run-6: 91875"/>
+  <text x="95" y="309.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 430.50</text>
+  <text x="466" y="304" font-size="10" fill="#FFFFFF" text-anchor="end">91875</text>
+  <rect x="100" y="322" width="371" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="phpbench-run-7: 91806"/>
+  <text x="95" y="345.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 323.36</text>
+  <text x="466" y="340" font-size="10" fill="#FFFFFF" text-anchor="end">91806</text>
+  <rect x="100" y="358" width="370" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="phpbench-run-8: 91658"/>
+  <text x="95" y="381.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 522.76</text>
+  <text x="465" y="376" font-size="10" fill="#FFFFFF" text-anchor="end">91658</text>
+  <rect x="100" y="394" width="371" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="phpbench-run-9: 91877"/>
+  <text x="95" y="417.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 467.01</text>
+  <text x="466" y="412" font-size="10" fill="#FFFFFF" text-anchor="end">91877</text>
+  <line x1="100" y1="424" x2="585" y2="424" stroke="#757575" stroke-width="1"/>
+  <rect x="0" y="446" width="600" height="17" fill="#231f20"/>
+  <a xlink:href="http://www.phoronix-test-suite.com/" xlink:show="new">
+    <text x="585" y="458" font-size="9" fill="#FEFEFE" text-anchor="end" xlink:show="new">Phoronix Test Suite 5.6.0</text>
+  </a>
+</svg>

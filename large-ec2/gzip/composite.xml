@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v5.6.0 (Dedilovo)-->
+<?xml-stylesheet type="text/xsl" href="pts-results-viewer.xsl"?>
+<PhoronixTestSuite>
+  <Generated>
+    <Title>gzip</Title>
+    <LastModified>2015-05-11 19:41:22</LastModified>
+    <TestClient>Phoronix Test Suite v5.6.0 (Dedilovo)</TestClient>
+    <Description>gzip run - 9 cloud lab exercise - gzip - mpsp - unipi.gr</Description>
+    <Notes></Notes>
+    <InternalTags></InternalTags>
+    <ReferenceID></ReferenceID>
+    <PreSetEnvironmentVariables></PreSetEnvironmentVariables>
+  </Generated>
+  <System>
+    <Identifier>gzip-run-0</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 8192MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-11 19:29:22</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+  </System>
+  <System>
+    <Identifier>gzip-run-1</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 8192MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-11 19:30:30</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+  </System>
+  <System>
+    <Identifier>gzip-run-2</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 8192MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-11 19:31:36</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+  </System>
+  <System>
+    <Identifier>gzip-run-3</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 8192MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-11 19:32:48</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+  </System>
+  <System>
+    <Identifier>gzip-run-4</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 8192MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-11 19:34:01</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+  </System>
+  <System>
+    <Identifier>gzip-run-5</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 8192MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-11 19:35:15</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+  </System>
+  <System>
+    <Identifier>gzip-run-6</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 8192MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-11 19:36:29</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+  </System>
+  <System>
+    <Identifier>gzip-run-7</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 8192MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-11 19:37:42</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+  </System>
+  <System>
+    <Identifier>gzip-run-8</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 8192MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-11 19:38:56</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+  </System>
+  <System>
+    <Identifier>gzip-run-9</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 8192MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-11 19:40:10</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+  </System>
+  <Result>
+    <Identifier>pts/compress-gzip-1.1.0</Identifier>
+    <Title>Gzip Compression</Title>
+    <AppVersion></AppVersion>
+    <Arguments></Arguments>
+    <Description>2GB File Compression</Description>
+    <Scale>Seconds</Scale>
+    <Proportion>LIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>gzip-run-0</Identifier>
+        <Value>16.23</Value>
+        <RawString>16.383008003235:16.167191982269:16.141351938248</RawString>
+      </Entry>
+      <Entry>
+        <Identifier>gzip-run-1</Identifier>
+        <Value>16.20</Value>
+        <RawString>16.306619882584:16.189790010452:16.115223884583</RawString>
+      </Entry>
+      <Entry>
+        <Identifier>gzip-run-2</Identifier>
+        <Value>16.20</Value>
+        <RawString>16.251863002777:16.231745004654:16.126438856125</RawString>
+      </Entry>
+      <Entry>
+        <Identifier>gzip-run-3</Identifier>
+        <Value>16.21</Value>
+        <RawString>16.261961936951:16.219309091568:16.152167081833</RawString>
+      </Entry>
+      <Entry>
+        <Identifier>gzip-run-4</Identifier>
+        <Value>16.30</Value>
+        <RawString>16.521157979965:16.208717107773:16.1715528965</RawString>
+      </Entry>
+      <Entry>
+        <Identifier>gzip-run-5</Identifier>
+        <Value>16.21</Value>
+        <RawString>16.25634098053:16.254764080048:16.130203008652</RawString>
+      </Entry>
+      <Entry>
+        <Identifier>gzip-run-6</Identifier>
+        <Value>16.31</Value>
+        <RawString>16.569020986557:16.224814891815:16.150884151459</RawString>
+      </Entry>
+      <Entry>
+        <Identifier>gzip-run-7</Identifier>
+        <Value>16.31</Value>
+        <RawString>16.54726600647:16.228987932205:16.16162610054</RawString>
+      </Entry>
+      <Entry>
+        <Identifier>gzip-run-8</Identifier>
+        <Value>16.28</Value>
+        <RawString>16.430577039719:16.259606838226:16.135416984558</RawString>
+      </Entry>
+      <Entry>
+        <Identifier>gzip-run-9</Identifier>
+        <Value>16.19</Value>
+        <RawString>16.23303103447:16.211677074432:16.111393928528</RawString>
+      </Entry>
+    </Data>
+  </Result>
+</PhoronixTestSuite>

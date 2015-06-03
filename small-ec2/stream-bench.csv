@@ -1,0 +1,21 @@
+stream-bench
+
+ ,"stream-run-0","stream-run-1","stream-run-2","stream-run-3","stream-run-4","stream-run-5","stream-run-6","stream-run-7","stream-run-8","stream-run-9"
+Processor,Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core)
+Motherboard,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU
+Chipset,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC
+Memory,2048MB,2048MB,2048MB,2048MB,2048MB,2048MB,2048MB,2048MB,2048MB,2048MB
+Disk,25GB,25GB,25GB,25GB,25GB,25GB,25GB,25GB,25GB,25GB
+Graphics,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446
+OS,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04
+Kernel,3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64)
+Compiler,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2
+File-System,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4
+System Layer,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon
+
+ ,"stream-run-0","stream-run-1","stream-run-2","stream-run-3","stream-run-4","stream-run-5","stream-run-6","stream-run-7","stream-run-8","stream-run-9"
+"Stream - Type: Copy",2518.36,3340.89,3301.06,3598.61,4208.90,4248.10,4334.18,4297.25,4233.65,4187.24
+"Stream - Type: Scale",2581.05,3275.20,3431.67,3303.93,4137.06,4407.93,4424.24,4420.21,4283.70,4428.17
+"Stream - Type: Triad",2418.12,3058.77,3170.08,3214.25,4075.29,3922.40,4005.73,3882.03,4013.89,3915.04
+"Stream - Type: Add",2399.40,3068.01,3065.55,3058.81,3930.64,3873.65,3891.90,3964.79,3936.43,3913.15
+

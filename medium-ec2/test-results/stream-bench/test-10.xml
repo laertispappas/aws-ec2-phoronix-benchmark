@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v5.6.0 (Dedilovo)-->
+<?xml-stylesheet type="text/xsl" href="pts-results-viewer.xsl"?>
+<PhoronixTestSuite>
+  <Generated>
+    <Title>stream-bench</Title>
+    <LastModified>2015-05-11 22:21:38</LastModified>
+    <TestClient>Phoronix Test Suite v5.6.0 (Dedilovo)</TestClient>
+    <Description>Running pts/stream-1.2.0 via the Phoronix Test Suite.</Description>
+    <PreSetEnvironmentVariables></PreSetEnvironmentVariables>
+  </Generated>
+  <System>
+    <Identifier>stream-run-9</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (2 Cores), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 4096MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-11 22:21:38</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+    <JSON>{"compiler-configuration":"--build=x86_64-linux-gnu --disable-browser-plugin --disable-libmudflap --disable-werror --enable-checking=release --enable-clocale=gnu --enable-gnu-unique-object --enable-gtk-cairo --enable-java-awt=gtk --enable-java-home --enable-languages=c,c++,java,go,d,fortran,objc,obj-c++ --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-multiarch --enable-nls --enable-objc-gc --enable-plugin --enable-shared --enable-threads=posix --host=x86_64-linux-gnu --target=x86_64-linux-gnu --with-abi=m64 --with-arch-32=i686 --with-arch-directory=amd64 --with-multilib-list=m32,m64,mx32 --with-tune=generic -v"}</JSON>
+  </System>
+  <Result>
+    <Identifier>pts/stream-1.2.0</Identifier>
+    <Title>Stream</Title>
+    <AppVersion>2013-01-17</AppVersion>
+    <Arguments>Copy</Arguments>
+    <Description>Type: Copy</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>stream-run-9</Identifier>
+        <Value>17071.06</Value>
+        <RawString>21118.7:14040.1:20945.3:8245.3:20065.4:20034.9:20458.1:20019.9:8096.7:21053.1:10161.4:21401.6:21019.5:14347.2:20496.9:20730.5:8275.1:9329.5:20473.8:21108.1</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/stream-1.2.0</Identifier>
+    <Title>Stream</Title>
+    <AppVersion>2013-01-17</AppVersion>
+    <Arguments>Scale</Arguments>
+    <Description>Type: Scale</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>stream-run-9</Identifier>
+        <Value>11319.22</Value>
+        <RawString>8221.2:21279.4:8917.5:8095.2:10444.5:8098.4:20623.5:8213.6:8064.5:11234.4</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/stream-1.2.0</Identifier>
+    <Title>Stream</Title>
+    <AppVersion>2013-01-17</AppVersion>
+    <Arguments>Triad</Arguments>
+    <Description>Type: Triad</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>stream-run-9</Identifier>
+        <Value>10635.81</Value>
+        <RawString>10343.9:10902.1:10296.5:10302.7:12188.9:10406.2:10280.6:10647.7:10353.7</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/stream-1.2.0</Identifier>
+    <Title>Stream</Title>
+    <AppVersion>2013-01-17</AppVersion>
+    <Arguments>Add</Arguments>
+    <Description>Type: Add</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>stream-run-9</Identifier>
+        <Value>10563.43</Value>
+        <RawString>10429.7:10314.6:10308.8:10261.6:10467.6:10529.1:10248.5:12308.3:10202.7</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+    </Data>
+  </Result>
+</PhoronixTestSuite>

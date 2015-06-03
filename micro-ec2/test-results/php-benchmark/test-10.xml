@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v5.6.0 (Dedilovo)-->
+<?xml-stylesheet type="text/xsl" href="pts-results-viewer.xsl"?>
+<PhoronixTestSuite>
+  <Generated>
+    <Title>php-benchmark</Title>
+    <LastModified>2015-05-12 16:13:06</LastModified>
+    <TestClient>Phoronix Test Suite v5.6.0 (Dedilovo)</TestClient>
+    <Description>Running pts/phpbench-1.1.0 via the Phoronix Test Suite.</Description>
+    <PreSetEnvironmentVariables></PreSetEnvironmentVariables>
+  </Generated>
+  <System>
+    <Identifier>phpbench-run-9</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 1024MB, Disk: 8GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-12 16:13:07</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+  </System>
+  <Result>
+    <Identifier>pts/phpbench-1.1.0</Identifier>
+    <Title>PHPBench</Title>
+    <AppVersion>0.8.1</AppVersion>
+    <Arguments></Arguments>
+    <Description>PHP Benchmark Suite</Description>
+    <Scale>Score</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>phpbench-run-9</Identifier>
+        <Value>9759</Value>
+        <RawString>10048:9641:9588</RawString>
+      </Entry>
+    </Data>
+  </Result>
+</PhoronixTestSuite>

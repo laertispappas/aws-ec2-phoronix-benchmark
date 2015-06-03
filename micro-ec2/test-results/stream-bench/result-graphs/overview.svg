@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Phoronix Test Suite v5.6.0 (Dedilovo) [ http://www.phoronix-test-suite.com/ ]-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" font-family="sans-serif" viewbox="0 0 596 204" width="596" height="204" preserveAspectRatio="xMinYMin meet">
+  <rect x="1" y="1" width="594" height="203" fill="#FEFEFE" stroke="#757575" stroke-width="1"/>
+  <rect x="1" y="1" width="595" height="203" fill="#FEFEFE" stroke="#757575" stroke-width="1"/>
+  <a xlink:href="http://www.phoronix-test-suite.com/" xlink:show="new">
+    <image xlink:href="data:image/png;base64,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" x="3" y="54" width="80" height="42"/>
+  </a>
+  <line x1="86" y1="107" x2="596" y2="107" stroke="#BABABA" stroke-width="163" stroke-dasharray="51,51"/>
+  <line x1="298" y1="124" x2="298" y2="188" stroke="#949494" stroke-width="596" stroke-dasharray="16,16"/>
+  <line x1="86" y1="107" x2="596" y2="107" stroke="#757575" stroke-width="163" stroke-dasharray="1,50"/>
+  <rect x="1" y="1" width="594" height="25" fill="#231f20"/>
+  <text x="5" y="19" font-size="17" fill="#FEFEFE" text-anchor="start">stream-bench</text>
+  <line x1="1" y1="25" x2="595" y2="25" stroke="#757575" stroke-width="1"/>
+  <a xlink:href="http://openbenchmarking.org/test/pts/stream-1.2.0" xlink:show="new">
+    <text x="84" y="136" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Stream</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/stream-1.2.0" xlink:show="new">
+    <text x="84" y="152" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Stream</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/stream-1.2.0" xlink:show="new">
+    <text x="84" y="168" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Stream</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/stream-1.2.0" xlink:show="new">
+    <text x="84" y="184" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Stream</text>
+  </a>
+  <text x="114.5" y="120" font-size="10" fill="#065695" font-weight="bold" text-anchor="end" transform="rotate(90 114.5 120)">stream-run-0</text>
+  <text x="165.5" y="120" font-size="10" fill="#065695" font-weight="bold" text-anchor="end" transform="rotate(90 165.5 120)">stream-run-1</text>
+  <text x="216.5" y="120" font-size="10" fill="#065695" font-weight="bold" text-anchor="end" transform="rotate(90 216.5 120)">stream-run-2</text>
+  <text x="267.5" y="120" font-size="10" fill="#065695" font-weight="bold" text-anchor="end" transform="rotate(90 267.5 120)">stream-run-3</text>
+  <text x="318.5" y="120" font-size="10" fill="#065695" font-weight="bold" text-anchor="end" transform="rotate(90 318.5 120)">stream-run-4</text>
+  <text x="369.5" y="120" font-size="10" fill="#065695" font-weight="bold" text-anchor="end" transform="rotate(90 369.5 120)">stream-run-5</text>
+  <text x="420.5" y="120" font-size="10" fill="#065695" font-weight="bold" text-anchor="end" transform="rotate(90 420.5 120)">stream-run-6</text>
+  <text x="471.5" y="120" font-size="10" fill="#065695" font-weight="bold" text-anchor="end" transform="rotate(90 471.5 120)">stream-run-7</text>
+  <text x="522.5" y="120" font-size="10" fill="#065695" font-weight="bold" text-anchor="end" transform="rotate(90 522.5 120)">stream-run-8</text>
+  <text x="573.5" y="120" font-size="10" fill="#065695" font-weight="bold" text-anchor="end" transform="rotate(90 573.5 120)">stream-run-9</text>
+  <text x="111.5" y="137" font-size="10" fill="#C80000" text-anchor="middle" xlink:title="STD Dev: 0.17%;  STD Error: 0.71">1303.91</text>
+  <text x="111.5" y="153" font-size="10" fill="#C80000" text-anchor="middle" xlink:title="STD Dev: 0.17%;  STD Error: 0.83">1304.00</text>
+  <text x="111.5" y="169" font-size="10" fill="#C80000" text-anchor="middle" xlink:title="STD Dev: 8.13%;  STD Error: 39.79">1384.28</text>
+  <text x="111.5" y="185" font-size="10" fill="#C80000" text-anchor="middle" xlink:title="STD Dev: 7.80%;  STD Error: 34.37">1393.55</text>
+  <text x="162.5" y="137" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 9.66%;  STD Error: 33.60">1555.16</text>
+  <text x="162.5" y="153" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 11.77%;  STD Error: 56.79">1447.20</text>
+  <text x="162.5" y="169" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 11.01%;  STD Error: 65.11">1672.24</text>
+  <text x="162.5" y="185" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 14.47%;  STD Error: 83.08">1519.64</text>
+  <text x="213.5" y="137" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.15%;  STD Error: 0.79">1624.52</text>
+  <text x="213.5" y="153" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.49%;  STD Error: 8.10">1632.39</text>
+  <text x="213.5" y="169" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 5.71%;  STD Error: 32.00">1771.91</text>
+  <text x="213.5" y="185" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 9.72%;  STD Error: 51.46">1674.91</text>
+  <text x="264.5" y="137" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.10%;  STD Error: 5.69">1629.42</text>
+  <text x="264.5" y="153" font-size="10" fill="#005a00" text-anchor="middle" xlink:title="STD Dev: 1.96%;  STD Error: 10.11">1634.40</text>
+  <text x="264.5" y="169" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 8.46%;  STD Error: 51.54">1722.85</text>
+  <text x="264.5" y="185" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 9.30%;  STD Error: 54.92">1670.16</text>
+  <text x="315.5" y="137" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.13%;  STD Error: 0.66">1627.06</text>
+  <text x="315.5" y="153" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.18%;  STD Error: 6.09">1630.61</text>
+  <text x="315.5" y="169" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 5.91%;  STD Error: 34.84">1767.81</text>
+  <text x="315.5" y="185" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 8.86%;  STD Error: 46.88">1673.14</text>
+  <text x="366.5" y="137" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.26%;  STD Error: 6.53">1631.59</text>
+  <text x="366.5" y="153" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.24%;  STD Error: 7.15">1632.35</text>
+  <text x="366.5" y="169" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 8.46%;  STD Error: 51.57">1724.40</text>
+  <text x="366.5" y="185" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 7.96%;  STD Error: 45.80">1725.80</text>
+  <text x="417.5" y="137" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 27.49%;  STD Error: 83.78">1362.74</text>
+  <text x="417.5" y="153" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 13.58%;  STD Error: 66.89">1558.23</text>
+  <text x="417.5" y="169" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 18.81%;  STD Error: 102.32">1631.58</text>
+  <text x="417.5" y="185" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 7.99%;  STD Error: 45.96">1725.40</text>
+  <text x="468.5" y="137" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.24%;  STD Error: 6.39">1631.67</text>
+  <text x="468.5" y="153" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.19%;  STD Error: 6.16">1631.68</text>
+  <text x="468.5" y="169" font-size="10" fill="#005a00" text-anchor="middle" xlink:title="STD Dev: 0.21%;  STD Error: 1.42">1804.94</text>
+  <text x="468.5" y="185" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 5.95%;  STD Error: 34.95">1760.70</text>
+  <text x="519.5" y="137" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.13%;  STD Error: 0.65">1624.91</text>
+  <text x="519.5" y="153" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.14%;  STD Error: 0.75">1624.94</text>
+  <text x="519.5" y="169" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 5.60%;  STD Error: 31.10">1755.22</text>
+  <text x="519.5" y="185" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 9.66%;  STD Error: 56.48">1654.26</text>
+  <text x="570.5" y="137" font-size="10" fill="#005a00" text-anchor="middle" xlink:title="STD Dev: 1.59%;  STD Error: 8.26">1641.42</text>
+  <text x="570.5" y="153" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.20%;  STD Error: 6.21">1630.59</text>
+  <text x="570.5" y="169" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 9.51%;  STD Error: 52.32">1650.66</text>
+  <text x="570.5" y="185" font-size="10" fill="#005a00" text-anchor="middle" xlink:title="STD Dev: 5.92%;  STD Error: 34.86">1765.34</text>
+  <line x1="298" y1="124" x2="298" y2="188" stroke="#949494" stroke-width="596" stroke-dasharray="1,15"/>
+  <rect x="0" y="188" width="596" height="16" fill="#231f20"/>
+  <a xlink:href="http://www.phoronix-test-suite.com/" xlink:show="new">
+    <text x="594" y="201" font-size="10" fill="#FFFFFF" text-anchor="end" xlink:show="new">PHORONIX-TEST-SUITE.COM</text>
+  </a>
+</svg>

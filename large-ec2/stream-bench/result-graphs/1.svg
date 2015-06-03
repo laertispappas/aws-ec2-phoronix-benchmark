@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Phoronix Test Suite v5.6.0 (Dedilovo) [ http://www.phoronix-test-suite.com/ ]-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" font-family="sans-serif" viewbox="0 0 600 496" width="600" height="496" preserveAspectRatio="xMinYMin meet">
+  <rect x="1" y="1" width="598" height="495" fill="#FEFEFE" stroke="#757575" stroke-width="1"/>
+  <line x1="87" y1="64" x2="87" y2="424" stroke="#757575" stroke-width="1"/>
+  <line x1="87" y1="424" x2="585" y2="424" stroke="#757575" stroke-width="1"/>
+  <a xlink:href="http://www.phoronix-test-suite.com/" xlink:show="new">
+    <text x="585" y="59" font-size="7" fill="#065695" text-anchor="end" xlink:show="new">PHORONIX-TEST-SUITE.COM</text>
+  </a>
+  <polygon points="96,56 87,60.5 87,51.5" fill="#065695" stroke="#949494" stroke-width="1"/>
+  <text x="99" y="59" font-size="7" fill="#065695" text-anchor="start">MB/s, More Is Better</text>
+  <rect x="0" y="0" width="600" height="48" fill="#231f20"/>
+  <a xlink:href="http://openbenchmarking.org/test/pts/stream-1.2.0" xlink:show="new">
+    <text x="6" y="19" font-size="17" fill="#FEFEFE" text-anchor="start" xlink:show="new">Stream v2013-01-17</text>
+  </a>
+  <text x="6" y="36" font-size="11" fill="#FEFEFE" text-anchor="start">Type: Copy</text>
+  <a xlink:href="http://www.phoronix-test-suite.com/" xlink:show="new">
+    <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAoCAYAAAC7MHdZAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAADhgAAA4YBfPt6aAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAARTSURBVGiB7dlbqBVVHMfxj8dTpHIUNdMTBFlEUZYZZQhdCMKksuSAYb5EIGIXC4KI8sEgKLpJUBkUlRm9mKlREZRBhVbgg1QPmd2tUMOQ1KRIz+phzbZp9uyzZ8/MscD9hWHv+c9a/7Xmt9fl/197RAjBMLIIt6fud+Oq4WzwaNA7zP4nY3rq/udhbu+oMNyi/V/pwwMZ2xp8VKTysSraGNyZsW1TULSe2rtzDNAVrQRd0UrQFa0EXdFKMNTuOQIXYh6moT+x7RR3mvX4BMMaHSeMxmLMSvo0sYSPy/BZHZ1pJdrVeATntHg+F3eL4t0nCjhcXIoXcXpFPyNr6Auap+covIK3tBYszVlYJ4rWV1enUkzHe6oLVitp0frwARaW8DNPDAwn1NGphOOxGsfV6LMWGtOzRxxhF7Uo9424fg3iYpwhrm9ppmEtZuNQCz9jcX+bPu3AC7gW52WeHcDL2N7GRx4/laiTS0O0ReI6leVtLBFfJE0/VoojLM0VYnryeIv2+rC8TZ82i6JdkLEHzMDXbepXYSFmpu5346GmUiGEMSGEnaGZpSEEba7FOfX2hBDGJs+X5Txvx6ak7oaMfXOB/hS9puS0uySEsCpj25ZXvwfXY0pGy9V4ssAv8yyey9gmYn7Rn3YIssdI54qhx39OL67L2Pbgjg583CWuP/0p2wCezyl7WPu1ZVfyuTVj7xPXs4fxZRsfg9jfpkxpenF+xvYxfuvAxwG8jxtTtlYbyi6cWtDvO/hdPMZpMJBcRdiJLWJI9FLBOoXowaSM7dMSfrZk7ifhhFI9+ocduKdC/X5xFq3CuzilYn+O0INxGdsPJfz8mmMbJY6UNON1lu+u1LxmluFKvK6mmC/vBcrkktnw4CD2ilMkzWic2YHfIOacA/iuRL/SzMCyij5Q33H3zMx9I/j8qkXZLzr0vz65xosB7/g25UeKcecN4ohvsFT74DrLHDFePUIdos0RTx/SvJl8bhVHW3pnXS5mDtmpW4S9YqpXhNeS9p9I2SbgNHEmlKbqeVqfGKtlWZN8htT3BlPxaMV2i7Ihx3Z2VadVRJuBTZp3pXX4PHX/oOaY6RZxJEyu0H4RZufY8paMjsibnuM0ZwgNJotizcLNmnej/bg3Y/tFDB1WZuwDuFwciVtFof8Q4750fnkyThrqJXJorGm3Zuz7xPW22o8VQjhUIj/M43AIYe4Q+d4zBf00cs/GtaKm/oUQwlOh89xzTrZgXf8RHMQCvDFEmdvwWE3tleFb1YLlI9Qh2hZcglfblBsUj8jn48ca2u2E7eJyUGbHbqKsaH+KscsC8VAym1wPxVoxwF2KjfirZB/aEcTD0xVifl0mPcxlRAjhkH//6fC0+DJ57Bfjru9VjHVS9OLE5OpVz0YwKGYQrU46RuGmjO1DMYSamrLtEzeoa9IF80RbJP9Yp0tC98/iEnRFK0FXtBJ0RStBV7QSdEUrQVe0EvwNj8PjDA+lMHUAAAAASUVORK5CYII=" x="508" y="3.2" width="77" height="40"/>
+  </a>
+  <line x1="87" y1="100" x2="87" y2="396" stroke="#757575" stroke-width="10" stroke-dasharray="1,35"/>
+  <text x="82" y="80" font-size="10" fill="#231f20" text-anchor="end">stream-run-0</text>
+  <text x="82" y="116" font-size="10" fill="#231f20" text-anchor="end">stream-run-1</text>
+  <text x="82" y="152" font-size="10" fill="#231f20" text-anchor="end">stream-run-2</text>
+  <text x="82" y="188" font-size="10" fill="#231f20" text-anchor="end">stream-run-3</text>
+  <text x="82" y="224" font-size="10" fill="#231f20" text-anchor="end">stream-run-4</text>
+  <text x="82" y="260" font-size="10" fill="#231f20" text-anchor="end">stream-run-5</text>
+  <text x="82" y="296" font-size="10" fill="#231f20" text-anchor="end">stream-run-6</text>
+  <text x="82" y="332" font-size="10" fill="#231f20" text-anchor="end">stream-run-7</text>
+  <text x="82" y="368" font-size="10" fill="#231f20" text-anchor="end">stream-run-8</text>
+  <text x="82" y="404" font-size="10" fill="#231f20" text-anchor="end">stream-run-9</text>
+  <text x="170" y="439" font-size="10" fill="#065695" text-anchor="middle">2000</text>
+  <line x1="172" y1="64" x2="172" y2="419" stroke="#BABABA" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="172" y1="420" x2="172" y2="428" stroke="#757575" stroke-width="1"/>
+  <text x="253" y="439" font-size="10" fill="#065695" text-anchor="middle">4000</text>
+  <line x1="255" y1="64" x2="255" y2="419" stroke="#BABABA" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="255" y1="420" x2="255" y2="428" stroke="#757575" stroke-width="1"/>
+  <text x="336" y="439" font-size="10" fill="#065695" text-anchor="middle">6000</text>
+  <line x1="338" y1="64" x2="338" y2="419" stroke="#BABABA" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="338" y1="420" x2="338" y2="428" stroke="#757575" stroke-width="1"/>
+  <text x="419" y="439" font-size="10" fill="#065695" text-anchor="middle">8000</text>
+  <line x1="421" y1="64" x2="421" y2="419" stroke="#BABABA" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="421" y1="420" x2="421" y2="428" stroke="#757575" stroke-width="1"/>
+  <text x="502" y="439" font-size="10" fill="#065695" text-anchor="middle">10000</text>
+  <line x1="504" y1="64" x2="504" y2="419" stroke="#BABABA" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="504" y1="420" x2="504" y2="428" stroke="#757575" stroke-width="1"/>
+  <rect x="87" y="70" width="430" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="stream-run-0: 10370.14"/>
+  <text x="82" y="93.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 14.21</text>
+  <text x="512" y="88" font-size="10" fill="#FFFFFF" text-anchor="end">10370.14</text>
+  <rect x="87" y="106" width="430" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="stream-run-1: 10365.90"/>
+  <text x="82" y="129.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 15.28</text>
+  <text x="512" y="124" font-size="10" fill="#FFFFFF" text-anchor="end">10365.90</text>
+  <rect x="87" y="142" width="429" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="stream-run-2: 10346.34"/>
+  <text x="82" y="165.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 17.76</text>
+  <text x="511" y="160" font-size="10" fill="#FFFFFF" text-anchor="end">10346.34</text>
+  <rect x="87" y="178" width="430" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="stream-run-3: 10349.70"/>
+  <text x="82" y="201.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 18.95</text>
+  <text x="512" y="196" font-size="10" fill="#FFFFFF" text-anchor="end">10349.70</text>
+  <rect x="87" y="214" width="431" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="stream-run-4: 10383.07"/>
+  <text x="82" y="237.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 19.23</text>
+  <text x="513" y="232" font-size="10" fill="#FFFFFF" text-anchor="end">10383.07</text>
+  <rect x="87" y="250" width="431" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="stream-run-5: 10396.33"/>
+  <text x="82" y="273.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 20.64</text>
+  <text x="513" y="268" font-size="10" fill="#FFFFFF" text-anchor="end">10396.33</text>
+  <rect x="87" y="286" width="431" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="stream-run-6: 10374.82"/>
+  <text x="82" y="309.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 19.11</text>
+  <text x="513" y="304" font-size="10" fill="#FFFFFF" text-anchor="end">10374.82</text>
+  <rect x="87" y="322" width="432" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="stream-run-7: 10415.21"/>
+  <text x="82" y="345.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 18.63</text>
+  <text x="514" y="340" font-size="10" fill="#FFFFFF" text-anchor="end">10415.21</text>
+  <rect x="87" y="358" width="430" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="stream-run-8: 10353.81"/>
+  <text x="82" y="381.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 28.04</text>
+  <text x="512" y="376" font-size="10" fill="#FFFFFF" text-anchor="end">10353.81</text>
+  <rect x="87" y="394" width="432" height="24" fill="#065695" stroke="#949494" stroke-width="1" xlink:title="stream-run-9: 10411.26"/>
+  <text x="82" y="417.8" font-size="8" fill="#065695" text-anchor="end">SE +/- 17.65</text>
+  <text x="514" y="412" font-size="10" fill="#FFFFFF" text-anchor="end">10411.26</text>
+  <line x1="87" y1="424" x2="585" y2="424" stroke="#757575" stroke-width="1"/>
+  <rect x="0" y="446" width="600" height="50" fill="#231f20"/>
+  <a xlink:href="http://www.phoronix-test-suite.com/" xlink:show="new">
+    <text x="585" y="458" font-size="9" fill="#FEFEFE" text-anchor="end" xlink:show="new">Phoronix Test Suite 5.6.0</text>
+  </a>
+  <text x="5" y="472" font-size="8" fill="#FEFEFE" text-anchor="start" xlink:title="-O3 -march=native -fopenmp" width="595">1. (CC) gcc options: -O3 -march=native -fopenmp</text>
+</svg>

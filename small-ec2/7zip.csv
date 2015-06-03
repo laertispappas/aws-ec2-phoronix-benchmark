@@ -1,0 +1,18 @@
+7zip
+
+ ,"7zip-run-0","7zip-run-1","7zip-run-2","7zip-run-3","7zip-run-4","7zip-run-5","7zip-run-6","7zip-run-7","7zip-run-8","7zip-run-9"
+Processor,Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core)
+Motherboard,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU
+Chipset,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC
+Memory,2048MB,2048MB,2048MB,2048MB,2048MB,2048MB,2048MB,2048MB,2048MB,2048MB
+Disk,25GB,25GB,25GB,25GB,25GB,25GB,25GB,25GB,25GB,25GB
+Graphics,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446
+OS,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04
+Kernel,3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64)
+Compiler,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2
+File-System,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4
+System Layer,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon
+
+ ,"7zip-run-0","7zip-run-1","7zip-run-2","7zip-run-3","7zip-run-4","7zip-run-5","7zip-run-6","7zip-run-7","7zip-run-8","7zip-run-9"
+"7-Zip Compression - Compress Speed Test",3410,3435,3413,3432,3434,3394,3427,3424,3450,3445
+

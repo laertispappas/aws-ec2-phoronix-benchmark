@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v5.6.0 (Dedilovo)-->
+<?xml-stylesheet type="text/xsl" href="pts-results-viewer.xsl"?>
+<PhoronixTestSuite>
+  <Generated>
+    <Title>threaded-bench</Title>
+    <LastModified>2015-05-12 17:30:05</LastModified>
+    <TestClient>Phoronix Test Suite v5.6.0 (Dedilovo)</TestClient>
+    <Description>Xen HVM domU 4.2.amazon testing on Ubuntu 14.04 via the Phoronix Test Suite.</Description>
+    <PreSetEnvironmentVariables></PreSetEnvironmentVariables>
+  </Generated>
+  <System>
+    <Identifier>threaded-bench-run-0</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 1024MB, Disk: 8GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-12 17:30:05</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+  </System>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 32 -t 4</Arguments>
+    <Description>Test: Read - Size Per Thread: 32MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-bench-run-0</Identifier>
+        <Value>4075.97</Value>
+        <RawString>4212.882:3968.869:4046.151</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 32 -t 8</Arguments>
+    <Description>Test: Read - Size Per Thread: 32MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-bench-run-0</Identifier>
+        <Value>3732.66</Value>
+        <RawString>2887.175:4000.25:3867.011:4021.806:3795.01:3824.72</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 64 -t 4</Arguments>
+    <Description>Test: Read - Size Per Thread: 64MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-bench-run-0</Identifier>
+        <Value>4029.83</Value>
+        <RawString>4136.237:3930.178:4023.07</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 64 -t 8</Arguments>
+    <Description>Test: Read - Size Per Thread: 64MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-bench-run-0</Identifier>
+        <Value>3997.67</Value>
+        <RawString>4001.876:4009.02:3982.112</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 128 -t 4</Arguments>
+    <Description>Test: Read - Size Per Thread: 128MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-bench-run-0</Identifier>
+        <Value>4175.87</Value>
+        <RawString>4213.437:4183.895:3930.54:4306.683:4244.806</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 128 -t 8</Arguments>
+    <Description>Test: Read - Size Per Thread: 128MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-bench-run-0</Identifier>
+        <Value>63.32</Value>
+        <RawString>63.336:63.312:63.308</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 256 -t 4</Arguments>
+    <Description>Test: Read - Size Per Thread: 256MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-bench-run-0</Identifier>
+        <Value>63.19</Value>
+        <RawString>63.247:63.09:63.244</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 256 -t 8</Arguments>
+    <Description>Test: Read - Size Per Thread: 256MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-bench-run-0</Identifier>
+        <Value>21.12</Value>
+        <RawString>61.349:1.021:1.004</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 32 -t 16</Arguments>
+    <Description>Test: Read - Size Per Thread: 32MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-bench-run-0</Identifier>
+        <Value>2592.67</Value>
+        <RawString>4.73:4021.711:3751.575</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 32 -t 32</Arguments>
+    <Description>Test: Read - Size Per Thread: 32MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-bench-run-0</Identifier>
+        <Value>1.02</Value>
+        <RawString>1.014:1.017:1.016</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 64 -t 16</Arguments>
+    <Description>Test: Read - Size Per Thread: 64MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-bench-run-0</Identifier>
+        <Value>1.01</Value>
+        <RawString>1.018:0.989:1.016</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 64 -t 32</Arguments>
+    <Description>Test: Read - Size Per Thread: 64MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-bench-run-0</Identifier>
+        <Value>1.02</Value>
+        <RawString>1.018:1.018:1.019</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 32 -t 4</Arguments>
+    <Description>Test: Write - Size Per Thread: 32MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-bench-run-0</Identifier>
+        <Value>0.07</Value>
+        <RawString>0.074:0.074:0.074</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 32 -t 8</Arguments>
+    <Description>Test: Write - Size Per Thread: 32MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-bench-run-0</Identifier>
+        <Value>0.08</Value>
+        <RawString>0.081:0.081:0.081</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 64 -t 4</Arguments>
+    <Description>Test: Write - Size Per Thread: 64MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-bench-run-0</Identifier>
+        <Value>0.07</Value>
+        <RawString>0.074:0.074:0.074</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 64 -t 8</Arguments>
+    <Description>Test: Write - Size Per Thread: 64MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-bench-run-0</Identifier>
+        <Value>0.08</Value>
+        <RawString>0.081:0.081:0.081</RawString>
+      </Entry>
+    </Data>
+  </Result>
+</PhoronixTestSuite>

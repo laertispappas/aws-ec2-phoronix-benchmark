@@ -1,0 +1,403 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v5.6.0 (Dedilovo)-->
+<?xml-stylesheet type="text/xsl" href="pts-results-viewer.xsl"?>
+<PhoronixTestSuite>
+  <Generated>
+    <Title>stream-bench</Title>
+    <LastModified>2015-05-12 02:20:19</LastModified>
+    <TestClient>Phoronix Test Suite v5.6.0 (Dedilovo)</TestClient>
+    <Description>Running pts/stream-1.2.0 via the Phoronix Test Suite.</Description>
+    <Notes></Notes>
+    <InternalTags></InternalTags>
+    <ReferenceID></ReferenceID>
+    <PreSetEnvironmentVariables></PreSetEnvironmentVariables>
+  </Generated>
+  <System>
+    <Identifier>stream-run-0</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 2048MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-12 02:03:06</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+    <JSON>{"compiler-configuration":"--build=x86_64-linux-gnu --disable-browser-plugin --disable-libmudflap --disable-werror --enable-checking=release --enable-clocale=gnu --enable-gnu-unique-object --enable-gtk-cairo --enable-java-awt=gtk --enable-java-home --enable-languages=c,c++,java,go,d,fortran,objc,obj-c++ --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-multiarch --enable-nls --enable-objc-gc --enable-plugin --enable-shared --enable-threads=posix --host=x86_64-linux-gnu --target=x86_64-linux-gnu --with-abi=m64 --with-arch-32=i686 --with-arch-directory=amd64 --with-multilib-list=m32,m64,mx32 --with-tune=generic -v"}</JSON>
+  </System>
+  <System>
+    <Identifier>stream-run-1</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 2048MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-12 02:05:10</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+    <JSON>{"compiler-configuration":"--build=x86_64-linux-gnu --disable-browser-plugin --disable-libmudflap --disable-werror --enable-checking=release --enable-clocale=gnu --enable-gnu-unique-object --enable-gtk-cairo --enable-java-awt=gtk --enable-java-home --enable-languages=c,c++,java,go,d,fortran,objc,obj-c++ --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-multiarch --enable-nls --enable-objc-gc --enable-plugin --enable-shared --enable-threads=posix --host=x86_64-linux-gnu --target=x86_64-linux-gnu --with-abi=m64 --with-arch-32=i686 --with-arch-directory=amd64 --with-multilib-list=m32,m64,mx32 --with-tune=generic -v"}</JSON>
+  </System>
+  <System>
+    <Identifier>stream-run-2</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 2048MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-12 02:06:57</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+    <JSON>{"compiler-configuration":"--build=x86_64-linux-gnu --disable-browser-plugin --disable-libmudflap --disable-werror --enable-checking=release --enable-clocale=gnu --enable-gnu-unique-object --enable-gtk-cairo --enable-java-awt=gtk --enable-java-home --enable-languages=c,c++,java,go,d,fortran,objc,obj-c++ --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-multiarch --enable-nls --enable-objc-gc --enable-plugin --enable-shared --enable-threads=posix --host=x86_64-linux-gnu --target=x86_64-linux-gnu --with-abi=m64 --with-arch-32=i686 --with-arch-directory=amd64 --with-multilib-list=m32,m64,mx32 --with-tune=generic -v"}</JSON>
+  </System>
+  <System>
+    <Identifier>stream-run-3</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 2048MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-12 02:08:44</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+    <JSON>{"compiler-configuration":"--build=x86_64-linux-gnu --disable-browser-plugin --disable-libmudflap --disable-werror --enable-checking=release --enable-clocale=gnu --enable-gnu-unique-object --enable-gtk-cairo --enable-java-awt=gtk --enable-java-home --enable-languages=c,c++,java,go,d,fortran,objc,obj-c++ --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-multiarch --enable-nls --enable-objc-gc --enable-plugin --enable-shared --enable-threads=posix --host=x86_64-linux-gnu --target=x86_64-linux-gnu --with-abi=m64 --with-arch-32=i686 --with-arch-directory=amd64 --with-multilib-list=m32,m64,mx32 --with-tune=generic -v"}</JSON>
+  </System>
+  <System>
+    <Identifier>stream-run-4</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 2048MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-12 02:10:29</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+    <JSON>{"compiler-configuration":"--build=x86_64-linux-gnu --disable-browser-plugin --disable-libmudflap --disable-werror --enable-checking=release --enable-clocale=gnu --enable-gnu-unique-object --enable-gtk-cairo --enable-java-awt=gtk --enable-java-home --enable-languages=c,c++,java,go,d,fortran,objc,obj-c++ --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-multiarch --enable-nls --enable-objc-gc --enable-plugin --enable-shared --enable-threads=posix --host=x86_64-linux-gnu --target=x86_64-linux-gnu --with-abi=m64 --with-arch-32=i686 --with-arch-directory=amd64 --with-multilib-list=m32,m64,mx32 --with-tune=generic -v"}</JSON>
+  </System>
+  <System>
+    <Identifier>stream-run-5</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 2048MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-12 02:12:09</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+    <JSON>{"compiler-configuration":"--build=x86_64-linux-gnu --disable-browser-plugin --disable-libmudflap --disable-werror --enable-checking=release --enable-clocale=gnu --enable-gnu-unique-object --enable-gtk-cairo --enable-java-awt=gtk --enable-java-home --enable-languages=c,c++,java,go,d,fortran,objc,obj-c++ --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-multiarch --enable-nls --enable-objc-gc --enable-plugin --enable-shared --enable-threads=posix --host=x86_64-linux-gnu --target=x86_64-linux-gnu --with-abi=m64 --with-arch-32=i686 --with-arch-directory=amd64 --with-multilib-list=m32,m64,mx32 --with-tune=generic -v"}</JSON>
+  </System>
+  <System>
+    <Identifier>stream-run-6</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 2048MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-12 02:13:45</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+    <JSON>{"compiler-configuration":"--build=x86_64-linux-gnu --disable-browser-plugin --disable-libmudflap --disable-werror --enable-checking=release --enable-clocale=gnu --enable-gnu-unique-object --enable-gtk-cairo --enable-java-awt=gtk --enable-java-home --enable-languages=c,c++,java,go,d,fortran,objc,obj-c++ --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-multiarch --enable-nls --enable-objc-gc --enable-plugin --enable-shared --enable-threads=posix --host=x86_64-linux-gnu --target=x86_64-linux-gnu --with-abi=m64 --with-arch-32=i686 --with-arch-directory=amd64 --with-multilib-list=m32,m64,mx32 --with-tune=generic -v"}</JSON>
+  </System>
+  <System>
+    <Identifier>stream-run-7</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 2048MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-12 02:15:20</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+    <JSON>{"compiler-configuration":"--build=x86_64-linux-gnu --disable-browser-plugin --disable-libmudflap --disable-werror --enable-checking=release --enable-clocale=gnu --enable-gnu-unique-object --enable-gtk-cairo --enable-java-awt=gtk --enable-java-home --enable-languages=c,c++,java,go,d,fortran,objc,obj-c++ --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-multiarch --enable-nls --enable-objc-gc --enable-plugin --enable-shared --enable-threads=posix --host=x86_64-linux-gnu --target=x86_64-linux-gnu --with-abi=m64 --with-arch-32=i686 --with-arch-directory=amd64 --with-multilib-list=m32,m64,mx32 --with-tune=generic -v"}</JSON>
+  </System>
+  <System>
+    <Identifier>stream-run-8</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 2048MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-12 02:17:01</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+    <JSON>{"compiler-configuration":"--build=x86_64-linux-gnu --disable-browser-plugin --disable-libmudflap --disable-werror --enable-checking=release --enable-clocale=gnu --enable-gnu-unique-object --enable-gtk-cairo --enable-java-awt=gtk --enable-java-home --enable-languages=c,c++,java,go,d,fortran,objc,obj-c++ --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-multiarch --enable-nls --enable-objc-gc --enable-plugin --enable-shared --enable-threads=posix --host=x86_64-linux-gnu --target=x86_64-linux-gnu --with-abi=m64 --with-arch-32=i686 --with-arch-directory=amd64 --with-multilib-list=m32,m64,mx32 --with-tune=generic -v"}</JSON>
+  </System>
+  <System>
+    <Identifier>stream-run-9</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 2048MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-12 02:18:41</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+    <Notes></Notes>
+    <JSON>{"compiler-configuration":"--build=x86_64-linux-gnu --disable-browser-plugin --disable-libmudflap --disable-werror --enable-checking=release --enable-clocale=gnu --enable-gnu-unique-object --enable-gtk-cairo --enable-java-awt=gtk --enable-java-home --enable-languages=c,c++,java,go,d,fortran,objc,obj-c++ --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-multiarch --enable-nls --enable-objc-gc --enable-plugin --enable-shared --enable-threads=posix --host=x86_64-linux-gnu --target=x86_64-linux-gnu --with-abi=m64 --with-arch-32=i686 --with-arch-directory=amd64 --with-multilib-list=m32,m64,mx32 --with-tune=generic -v"}</JSON>
+  </System>
+  <Result>
+    <Identifier>pts/stream-1.2.0</Identifier>
+    <Title>Stream</Title>
+    <AppVersion>2013-01-17</AppVersion>
+    <Arguments>Copy</Arguments>
+    <Description>Type: Copy</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>stream-run-0</Identifier>
+        <Value>2518.36</Value>
+        <RawString>2733:2545.5:2568.3:2554.7:2560.4:2035.4:2558.3:2568.1:2566.5:2562.8:2573.2:2573.5:2566.9:2565.9:2551.8:2560.9:2026.1:2569.8:2560.9:2565.2</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-1</Identifier>
+        <Value>3340.89</Value>
+        <RawString>3177.5:3198.4:3444.8:3186.6:3436.2:4165:3170.8:3462.6:3163.4:4190.8:3785.3:3169:3448.7:3175.2:3176.7:3182.6:3190.2:3201.5:2704.6:3187.8</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-2</Identifier>
+        <Value>3301.06</Value>
+        <RawString>3168.6:3446.9:3458.3:4207.4:3431.6:3158.2:2557:3177.4:3175.4:3455.8:3194:3182.4:3182.2:3185:3160:3172.7:4164:3187.8:3175.8:3180.7</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-3</Identifier>
+        <Value>3598.61</Value>
+        <RawString>3164.1:3153.1:3164.8:3187.9:3177.5:3189.5:3419.8:3185.9:4132.7:4195.3:3190.7:4162.2:2722.8:3787.1:3454.7:3767.1:4689.5:3769.1:4658.6:3799.8</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-4</Identifier>
+        <Value>4208.90</Value>
+        <RawString>4615.8:4176.9:3809.7:3769.1:4133.7:4645.9:3780.9:4667.3:3812.9:4677.9:4666.1:4711.1:3765.3:4725.2:3789.9:3796.9:5281.9:3775.9:3812.5:3763</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-5</Identifier>
+        <Value>4248.10</Value>
+        <RawString>4722:4708.9:4645.6:3806.2:3803.6:4139.5:4675.9:3777.1:3800.6:3772.1:3776.4:3779.9:4652.6:4672.3:3789.2:4607.2:3803:4655.4:4679.9:4694.6</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-6</Identifier>
+        <Value>4334.18</Value>
+        <RawString>3798.8:5398.6:3814.8:3789.4:3779.5:4683.7:4627.6:4196.3:3804.8:4673.9:3775:4654.2:4674.3:5323.6:4685.5:3790.6:3784.7:4144:4617.1:4667.2</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-7</Identifier>
+        <Value>4297.25</Value>
+        <RawString>4161.7:4684.8:4675.5:4641.3:3802.1:4652.1:4711.8:4688.9:4658.8:3790.1:3791.6:4662.8:4663.5:3821.6:3769.8:3808.3:3806.3:4678.5:3806.6:4668.8</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-8</Identifier>
+        <Value>4233.65</Value>
+        <RawString>4653.3:3799.1:5360.1:3801.7:3797.6:4660.2:4156.4:3770.8:4145.8:3786.6:4633.9:4167.3:3797.5:3740.7:4159.9:3778.5:4658.2:3812.2:5314:4679.1</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-9</Identifier>
+        <Value>4187.24</Value>
+        <RawString>3768.3:4711.1:3790.5:4701.2:4105.1:4669.2:3776.7:4626.3:3783:4660.8:3796.2:4627.3:4177.2:4141.6:3778.5:3790.2:4627.9:4639.3:4123.9:3450.4</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/stream-1.2.0</Identifier>
+    <Title>Stream</Title>
+    <AppVersion>2013-01-17</AppVersion>
+    <Arguments>Scale</Arguments>
+    <Description>Type: Scale</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>stream-run-0</Identifier>
+        <Value>2581.05</Value>
+        <RawString>2555.8:2722.8:2552.2:2565.5:2567.2:2570.6:2568.8:2569.6:2574.6:2563.4</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-1</Identifier>
+        <Value>3275.20</Value>
+        <RawString>3174.5:3174.4:3194.8:3174.2:3177.1:3185.9:3739.7:3189.5:3466.7</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-2</Identifier>
+        <Value>3431.67</Value>
+        <RawString>3793.6:3177.3:3433.1:2934.4:3203.3:4177.9:3754.4:3185.4:3181.7:3475.6</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-3</Identifier>
+        <Value>3303.93</Value>
+        <RawString>3467.3:3773.5:3191.1:3182.8:3196.4:3182.6:3183.3:3194.7:3189.1:3478.5</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-4</Identifier>
+        <Value>4137.06</Value>
+        <RawString>3803.1:4156.4:3820.6:3812.4:4726.3:4701.6:4211.9:4177.7:3823.5</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-5</Identifier>
+        <Value>4407.93</Value>
+        <RawString>4616.7:3769.8:3824.5:3804.7:4669.4:4674.6:4634.9:4697.7:4692.5:4694.5</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-6</Identifier>
+        <Value>4424.24</Value>
+        <RawString>4710.8:4627.6:4734.7:4719.2:3796.2:3177.6:3803.2:5284.5:4699.2:4689.4</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-7</Identifier>
+        <Value>4420.21</Value>
+        <RawString>4207.2:3815.1:4743.2:4186.8:4710.2:4708.9:4669.2:4689.3:3788.4:4683.8</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-8</Identifier>
+        <Value>4283.70</Value>
+        <RawString>4182.4:3813.3:3774.4:4655.6:4733.4:3751.2:3806.3:4167.7:5251.9:4700.8</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-9</Identifier>
+        <Value>4428.17</Value>
+        <RawString>4692.5:4230.3:4670.7:4658.1:3840.5:4682.1:3793.3:5252.6:4684.5:3777.1</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/stream-1.2.0</Identifier>
+    <Title>Stream</Title>
+    <AppVersion>2013-01-17</AppVersion>
+    <Arguments>Triad</Arguments>
+    <Description>Type: Triad</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>stream-run-0</Identifier>
+        <Value>2418.12</Value>
+        <RawString>2361.3:2364.3:2367.8:2361.7:2827.6:2373.5:2370.5:2371.6:2364.8</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-1</Identifier>
+        <Value>3058.77</Value>
+        <RawString>3136.1:3090.1:2964.8:3108.5:3108.9:3090.8:2961.2:3105.8:2962.7</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-2</Identifier>
+        <Value>3170.08</Value>
+        <RawString>3108.5:3459.6:3286.9:3277.6:3103.5:2972.1:3116.2:3305.5:2962.4:3108.5</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-3</Identifier>
+        <Value>3214.25</Value>
+        <RawString>3499.7:3289.1:2966.5:2969.2:3461.8:3483.1:2962.4:3082.2</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-4</Identifier>
+        <Value>4075.29</Value>
+        <RawString>3897.9:4215.8:4255.6:4178.6:3948.5:3956.7:4197.9:3951.3</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-5</Identifier>
+        <Value>3922.40</Value>
+        <RawString>3700.8:3674.8:4234.7:3703.4:3944.3:3909.2:4213.6:4241.3:3688.8:3913.1</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-6</Identifier>
+        <Value>4005.73</Value>
+        <RawString>4959.5:3917.8:4232.8:3966.7:3970.6:3689.4:3931.8:3940.4:3726.4:3721.9</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-7</Identifier>
+        <Value>3882.03</Value>
+        <RawString>3721.6:3928.1:3706.9:3923.2:3708.6:3962.1:3733.2:3934.7:4250.5:3951.4</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-8</Identifier>
+        <Value>4013.89</Value>
+        <RawString>3677.3:4239.5:4241.9:3677.8:4191.8:3889.8:4256.2:3936.8</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-9</Identifier>
+        <Value>3915.04</Value>
+        <RawString>3671.3:3931.1:4212.6:3659.9:4168.6:3927.8:3720.1:3704.1:4223.2:3931.7</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/stream-1.2.0</Identifier>
+    <Title>Stream</Title>
+    <AppVersion>2013-01-17</AppVersion>
+    <Arguments>Add</Arguments>
+    <Description>Type: Add</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>stream-run-0</Identifier>
+        <Value>2399.40</Value>
+        <RawString>2363.6:2453.1:2367.3:2373.5:2435.5:2365.1:2371.7:2369.2:2450.1:2444.9</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-1</Identifier>
+        <Value>3068.01</Value>
+        <RawString>2971.4:3124.9:2950.2:3094.4:2961.1:2954.6:3096.5:3470.9:2958.9:3097.2</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-2</Identifier>
+        <Value>3065.55</Value>
+        <RawString>2954.7:2971.6:3106.3:2949.5:2960.7:2950.8:3288.4:3093.3:3278.7:3101.5</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-3</Identifier>
+        <Value>3058.81</Value>
+        <RawString>3110.3:3084.2:2964.8:2956.6:3442.1:2959.3:2962.5:3088.1:2961.4</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-4</Identifier>
+        <Value>3930.64</Value>
+        <RawString>3905.6:4201.1:3953.2:3935.4:3696.1:4168.3:3901.3:3684.1</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-5</Identifier>
+        <Value>3873.65</Value>
+        <RawString>3930.8:3947.2:4259.3:4200.5:3708.3:3664.7:3477.8:3695.4:3932.6:3919.9</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-6</Identifier>
+        <Value>3891.90</Value>
+        <RawString>3712.2:3947.2:3958.6:4224.2:4201.9:3949.4:3680.6:3664.4:3688.6</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-7</Identifier>
+        <Value>3964.79</Value>
+        <RawString>3889.2:4240.4:3670.7:4196.7:3694.9:3929.1:3699.1:4219.5:4184.6:3923.7</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-8</Identifier>
+        <Value>3936.43</Value>
+        <RawString>3905.8:4225.2:3672.1:3948.9:3704.6:3960.4:3921.8:3926.4:4202.4:3896.7</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+      <Entry>
+        <Identifier>stream-run-9</Identifier>
+        <Value>3913.15</Value>
+        <RawString>4230.6:3942.4:4216.3:3927.1:3805.7:3696.5:3918.6:3689.9:3483.5:4220.9</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CC","compiler":"gcc","compiler-options":"-O3 -march=native -fopenmp"}}</JSON>
+      </Entry>
+    </Data>
+  </Result>
+</PhoronixTestSuite>

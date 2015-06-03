@@ -1,0 +1,18 @@
+apache-bench
+
+ ,"apache-run-0","apache-run-1","apache-run-2","apache-run-3","apache-run-4","apache-run-5","apache-run-6","apache-run-7","apache-run-8","apache-run-9"
+Processor,Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core),Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core)
+Motherboard,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU,Xen HVM domU
+Chipset,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC,Intel 440FX- 82441FX PMC
+Memory,1024MB,1024MB,1024MB,1024MB,1024MB,1024MB,1024MB,1024MB,1024MB,1024MB
+Disk,8GB,8GB,8GB,8GB,8GB,8GB,8GB,8GB,8GB,8GB
+Graphics,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446,Cirrus Logic GD 5446
+OS,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04,Ubuntu 14.04
+Kernel,3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64),3.13.0-48-generic (x86_64)
+Compiler,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2,GCC 4.8.2
+File-System,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4,ext4
+System Layer,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon,Xen HVM domU 4.2.amazon
+
+ ,"apache-run-0","apache-run-1","apache-run-2","apache-run-3","apache-run-4","apache-run-5","apache-run-6","apache-run-7","apache-run-8","apache-run-9"
+"Apache Benchmark - Static Web Page Serving",4008.42,764.91,785.52,767.91,756.24,765.30,773.85,775.44,775.91,769.90
+

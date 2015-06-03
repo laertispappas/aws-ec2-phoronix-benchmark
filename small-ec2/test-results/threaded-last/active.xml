@@ -1,0 +1,1091 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v5.6.0 (Dedilovo)-->
+<?xml-stylesheet type="text/xsl" href="pts-results-viewer.xsl"?>
+<PhoronixTestSuite>
+  <Generated>
+    <Title>threaded-last</Title>
+    <LastModified>2015-05-18 21:07:03</LastModified>
+    <TestClient>Phoronix Test Suite v5.6.0 (Dedilovo)</TestClient>
+    <Description>Xen HVM domU 4.2.amazon testing on Ubuntu 14.04 via the Phoronix Test Suite.</Description>
+    <PreSetEnvironmentVariables></PreSetEnvironmentVariables>
+  </Generated>
+  <System>
+    <Identifier>threaded-last-unique</Identifier>
+    <Hardware>Processor: Intel Xeon E5-2670 v2 @ 2.50GHz (1 Core), Motherboard: Xen HVM domU, Chipset: Intel 440FX- 82441FX PMC, Memory: 2048MB, Disk: 25GB, Graphics: Cirrus Logic GD 5446</Hardware>
+    <Software>OS: Ubuntu 14.04, Kernel: 3.13.0-48-generic (x86_64), Compiler: GCC 4.8.2, File-System: ext4, System Layer: Xen HVM domU 4.2.amazon</Software>
+    <User>ubuntu</User>
+    <TimeStamp>2015-05-18 21:07:03</TimeStamp>
+    <TestClientVersion>5.6.0</TestClientVersion>
+  </System>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 32 -t 4</Arguments>
+    <Description>Test: Read - Size Per Thread: 32MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>3764.53</Value>
+        <RawString>4076.952:3961.99:3723.853:3552.102:3678.689:3593.588</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 32 -t 8</Arguments>
+    <Description>Test: Read - Size Per Thread: 32MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>3764.87</Value>
+        <RawString>3859.665:3700.652:3734.282</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 64 -t 4</Arguments>
+    <Description>Test: Read - Size Per Thread: 64MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>3907.09</Value>
+        <RawString>3891.169:3928.911:3901.19</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 64 -t 8</Arguments>
+    <Description>Test: Read - Size Per Thread: 64MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>3947.96</Value>
+        <RawString>4030.893:3933.469:3879.523</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 128 -t 4</Arguments>
+    <Description>Test: Read - Size Per Thread: 128MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>4036.43</Value>
+        <RawString>4128.599:3969.546:4011.156</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 128 -t 8</Arguments>
+    <Description>Test: Read - Size Per Thread: 128MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>3950.14</Value>
+        <RawString>3934.225:3885.278:4030.909</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 256 -t 4</Arguments>
+    <Description>Test: Read - Size Per Thread: 256MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>4153.79</Value>
+        <RawString>3465.618:4259.514:4279.505:4281.635:4355.186:4281.294</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 256 -t 8</Arguments>
+    <Description>Test: Read - Size Per Thread: 256MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>22.59</Value>
+        <RawString>61.374:3.19:3.193</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 32 -t 16</Arguments>
+    <Description>Test: Read - Size Per Thread: 32MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>3529.00</Value>
+        <RawString>3547.352:3481.833:3557.829</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 32 -t 32</Arguments>
+    <Description>Test: Read - Size Per Thread: 32MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>3530.65</Value>
+        <RawString>3562.111:3597.539:3432.291</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 64 -t 16</Arguments>
+    <Description>Test: Read - Size Per Thread: 64MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>3653.87</Value>
+        <RawString>3669.159:3608.658:3683.798</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 64 -t 32</Arguments>
+    <Description>Test: Read - Size Per Thread: 64MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>3.18</Value>
+        <RawString>3.179:3.171:3.18</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 32 -t 4</Arguments>
+    <Description>Test: Write - Size Per Thread: 32MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.23</Value>
+        <RawString>0.232:0.23:0.231</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 32 -t 8</Arguments>
+    <Description>Test: Write - Size Per Thread: 32MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.23</Value>
+        <RawString>0.234:0.233:0.233</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 64 -t 4</Arguments>
+    <Description>Test: Write - Size Per Thread: 64MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.23</Value>
+        <RawString>0.231:0.23:0.23</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 64 -t 8</Arguments>
+    <Description>Test: Write - Size Per Thread: 64MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.23</Value>
+        <RawString>0.234:0.233:0.233</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 128 -t 16</Arguments>
+    <Description>Test: Read - Size Per Thread: 128MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>3.18</Value>
+        <RawString>3.186:3.182:3.173</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 128 -t 32</Arguments>
+    <Description>Test: Read - Size Per Thread: 128MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>3.19</Value>
+        <RawString>3.194:3.192:3.193</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 256 -t 16</Arguments>
+    <Description>Test: Read - Size Per Thread: 256MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>3.19</Value>
+        <RawString>3.191:3.192:3.194</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k1 -f 256 -t 32</Arguments>
+    <Description>Test: Read - Size Per Thread: 256MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>3.19</Value>
+        <RawString>3.194:3.192:3.192</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 128 -t 4</Arguments>
+    <Description>Test: Write - Size Per Thread: 128MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.23</Value>
+        <RawString>0.23:0.23:0.23</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 128 -t 8</Arguments>
+    <Description>Test: Write - Size Per Thread: 128MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.23</Value>
+        <RawString>0.232:0.233:0.232</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 256 -t 4</Arguments>
+    <Description>Test: Write - Size Per Thread: 256MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.23</Value>
+        <RawString>0.229:0.229:0.225</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 256 -t 8</Arguments>
+    <Description>Test: Write - Size Per Thread: 256MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.23</Value>
+        <RawString>0.23:0.232:0.233</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 32 -t 16</Arguments>
+    <Description>Test: Write - Size Per Thread: 32MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.23</Value>
+        <RawString>0.234:0.233:0.233</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 32 -t 32</Arguments>
+    <Description>Test: Write - Size Per Thread: 32MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.24</Value>
+        <RawString>0.242:0.239:0.24</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 64 -t 16</Arguments>
+    <Description>Test: Write - Size Per Thread: 64MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.23</Value>
+        <RawString>0.233:0.233:0.233</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 64 -t 32</Arguments>
+    <Description>Test: Write - Size Per Thread: 64MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.24</Value>
+        <RawString>0.238:0.239:0.24</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 128 -t 16</Arguments>
+    <Description>Test: Write - Size Per Thread: 128MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.23</Value>
+        <RawString>0.23:0.233:0.233</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 128 -t 32</Arguments>
+    <Description>Test: Write - Size Per Thread: 128MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.24</Value>
+        <RawString>0.239:0.238:0.238</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 256 -t 16</Arguments>
+    <Description>Test: Write - Size Per Thread: 256MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.23</Value>
+        <RawString>0.231:0.232:0.232</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -k1 -f 256 -t 32</Arguments>
+    <Description>Test: Write - Size Per Thread: 256MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.24</Value>
+        <RawString>0.24:0.238:0.239</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k2 -k1 -f 32 -t 4</Arguments>
+    <Description>Test: Random Read - Size Per Thread: 32MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>2829.33</Value>
+        <RawString>2833.696:2627.817:2993.869:2832.155:2784.709:2903.735</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k2 -k1 -f 32 -t 8</Arguments>
+    <Description>Test: Random Read - Size Per Thread: 32MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>2908.39</Value>
+        <RawString>2897.543:2926.852:2900.77</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k2 -k1 -f 64 -t 4</Arguments>
+    <Description>Test: Random Read - Size Per Thread: 64MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>2810.64</Value>
+        <RawString>2837.813:2853.36:2740.747</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k2 -k1 -f 64 -t 8</Arguments>
+    <Description>Test: Random Read - Size Per Thread: 64MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>2929.32</Value>
+        <RawString>2913.753:2899.425:2974.774</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k2 -k1 -f 128 -t 4</Arguments>
+    <Description>Test: Random Read - Size Per Thread: 128MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>2782.34</Value>
+        <RawString>2753.304:2831.642:2762.065</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k2 -k1 -f 128 -t 8</Arguments>
+    <Description>Test: Random Read - Size Per Thread: 128MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>2930.44</Value>
+        <RawString>2934.823:2950.34:2906.166</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k2 -k1 -f 256 -t 4</Arguments>
+    <Description>Test: Random Read - Size Per Thread: 256MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>2771.54</Value>
+        <RawString>2709.381:2745.081:2860.15</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k2 -k1 -f 256 -t 8</Arguments>
+    <Description>Test: Random Read - Size Per Thread: 256MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>1.23</Value>
+        <RawString>1.236:1.221:1.242</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k2 -k1 -f 32 -t 16</Arguments>
+    <Description>Test: Random Read - Size Per Thread: 32MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>2828.55</Value>
+        <RawString>2814.301:2764.63:2906.706</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k2 -k1 -f 32 -t 32</Arguments>
+    <Description>Test: Random Read - Size Per Thread: 32MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>2911.12</Value>
+        <RawString>2862.115:2970.744:2900.501</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k2 -k1 -f 64 -t 16</Arguments>
+    <Description>Test: Random Read - Size Per Thread: 64MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>2779.71</Value>
+        <RawString>2816.457:2836.011:2686.67</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k2 -k1 -f 64 -t 32</Arguments>
+    <Description>Test: Random Read - Size Per Thread: 64MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>1.12</Value>
+        <RawString>1.004:1.179:1.166</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -f 32 -t 4</Arguments>
+    <Description>Test: Random Write - Size Per Thread: 32MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.20</Value>
+        <RawString>0.198:0.198:0.198</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -f 32 -t 8</Arguments>
+    <Description>Test: Random Write - Size Per Thread: 32MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.26</Value>
+        <RawString>0.26:0.26:0.259</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -f 64 -t 4</Arguments>
+    <Description>Test: Random Write - Size Per Thread: 64MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.20</Value>
+        <RawString>0.198:0.198:0.198</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -f 64 -t 8</Arguments>
+    <Description>Test: Random Write - Size Per Thread: 64MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.26</Value>
+        <RawString>0.26:0.26:0.26</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k2 -k1 -f 128 -t 16</Arguments>
+    <Description>Test: Random Read - Size Per Thread: 128MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>1.19</Value>
+        <RawString>1.181:1.198:1.184</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k2 -k1 -f 128 -t 32</Arguments>
+    <Description>Test: Random Read - Size Per Thread: 128MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.49</Value>
+        <RawString>0.491:0.491:0.493</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k2 -k1 -f 256 -t 16</Arguments>
+    <Description>Test: Random Read - Size Per Thread: 256MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.49</Value>
+        <RawString>0.493:0.495:0.492</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k2 -k1 -f 256 -t 32</Arguments>
+    <Description>Test: Random Read - Size Per Thread: 256MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.37</Value>
+        <RawString>0.367:0.368:0.364</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -f 128 -t 4</Arguments>
+    <Description>Test: Random Write - Size Per Thread: 128MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.20</Value>
+        <RawString>0.198:0.198:0.198</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -f 128 -t 8</Arguments>
+    <Description>Test: Random Write - Size Per Thread: 128MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.26</Value>
+        <RawString>0.26:0.259:0.26</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -f 256 -t 4</Arguments>
+    <Description>Test: Random Write - Size Per Thread: 256MB - Thread Count: 4</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.20</Value>
+        <RawString>0.198:0.198:0.198</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -f 256 -t 8</Arguments>
+    <Description>Test: Random Write - Size Per Thread: 256MB - Thread Count: 8</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.26</Value>
+        <RawString>0.26:0.26:0.259</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -f 32 -t 16</Arguments>
+    <Description>Test: Random Write - Size Per Thread: 32MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.26</Value>
+        <RawString>0.263:0.263:0.263</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -f 32 -t 32</Arguments>
+    <Description>Test: Random Write - Size Per Thread: 32MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.26</Value>
+        <RawString>0.261:0.261:0.261</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -f 64 -t 16</Arguments>
+    <Description>Test: Random Write - Size Per Thread: 64MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.26</Value>
+        <RawString>0.263:0.262:0.262</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -f 64 -t 32</Arguments>
+    <Description>Test: Random Write - Size Per Thread: 64MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.26</Value>
+        <RawString>0.26:0.261:0.262</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -f 128 -t 16</Arguments>
+    <Description>Test: Random Write - Size Per Thread: 128MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.26</Value>
+        <RawString>0.263:0.26:0.242</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -f 128 -t 32</Arguments>
+    <Description>Test: Random Write - Size Per Thread: 128MB - Thread Count: 32</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.26</Value>
+        <RawString>0.261:0.261:0.26</RawString>
+      </Entry>
+    </Data>
+  </Result>
+  <Result>
+    <Identifier>pts/tiobench-1.2.0</Identifier>
+    <Title>Threaded I/O Tester</Title>
+    <AppVersion>0.3.3</AppVersion>
+    <Arguments>-k3 -k2 -f 256 -t 16</Arguments>
+    <Description>Test: Random Write - Size Per Thread: 256MB - Thread Count: 16</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>threaded-last-unique</Identifier>
+        <Value>0.26</Value>
+        <RawString>0.263:0.262:0.261</RawString>
+      </Entry>
+    </Data>
+  </Result>
+</PhoronixTestSuite>

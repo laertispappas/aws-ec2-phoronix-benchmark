@@ -1,0 +1,491 @@
+Initializing cgroup subsys cpuset
+Initializing cgroup subsys cpu
+Initializing cgroup subsys cpuacct
+Linux version 3.13.0-48-generic (buildd@orlo) (gcc version 4.8.2 (Ubuntu 4.8.2-19ubuntu1) ) #80-Ubuntu SMP Thu Mar 12 11:16:15 UTC 2015 (Ubuntu 3.13.0-48.80-generic 3.13.11-ckt16)
+Command line: BOOT_IMAGE=/boot/vmlinuz-3.13.0-48-generic root=UUID=877c5daf-9427-49e3-8656-437c3f30fc84 ro console=tty1 console=ttyS0
+KERNEL supported cpus:
+  Intel GenuineIntel
+  AMD AuthenticAMD
+  Centaur CentaurHauls
+e820: BIOS-provided physical RAM map:
+BIOS-e820: [mem 0x0000000000000000-0x000000000009dfff] usable
+BIOS-e820: [mem 0x000000000009e000-0x000000000009ffff] reserved
+BIOS-e820: [mem 0x00000000000e0000-0x00000000000fffff] reserved
+BIOS-e820: [mem 0x0000000000100000-0x00000000efffffff] usable
+BIOS-e820: [mem 0x00000000fc000000-0x00000000ffffffff] reserved
+BIOS-e820: [mem 0x0000000100000000-0x00000001efffffff] usable
+NX (Execute Disable) protection: active
+SMBIOS 2.4 present.
+DMI: Xen HVM domU, BIOS 4.2.amazon 05/06/2015
+Hypervisor detected: Xen HVM
+Xen version 4.2.
+Xen Platform PCI: I/O protocol version 1
+Netfront and the Xen platform PCI driver have been compiled for this kernel: unplug emulated NICs.
+Blkfront and the Xen platform PCI driver have been compiled for this kernel: unplug emulated disks.
+You might have to change the root device
+from /dev/hd[a-d] to /dev/xvd[a-d]
+in your root= kernel command line option
+HVMOP_pagetable_dying not supported
+e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+e820: remove [mem 0x000a0000-0x000fffff] usable
+No AGP bridge found
+e820: last_pfn = 0x1f0000 max_arch_pfn = 0x400000000
+MTRR default type: write-back
+MTRR fixed ranges enabled:
+  00000-9FFFF write-back
+  A0000-BFFFF write-combining
+  C0000-FFFFF write-back
+MTRR variable ranges enabled:
+  0 base 0000F0000000 mask 3FFFF8000000 uncachable
+  1 base 0000F8000000 mask 3FFFFC000000 uncachable
+  2 disabled
+  3 disabled
+  4 disabled
+  5 disabled
+  6 disabled
+  7 disabled
+x86 PAT enabled: cpu 0, old 0x7040600070406, new 0x7010600070106
+e820: last_pfn = 0xf0000 max_arch_pfn = 0x400000000
+found SMP MP-table at [mem 0x000fbba0-0x000fbbaf] mapped at [ffff8800000fbba0]
+Scanning 1 areas for low memory corruption
+Base memory trampoline at [ffff880000098000] 98000 size 24576
+init_memory_mapping: [mem 0x00000000-0x000fffff]
+ [mem 0x00000000-0x000fffff] page 4k
+BRK [0x01fe2000, 0x01fe2fff] PGTABLE
+BRK [0x01fe3000, 0x01fe3fff] PGTABLE
+BRK [0x01fe4000, 0x01fe4fff] PGTABLE
+init_memory_mapping: [mem 0x1efe00000-0x1efffffff]
+ [mem 0x1efe00000-0x1efffffff] page 2M
+BRK [0x01fe5000, 0x01fe5fff] PGTABLE
+init_memory_mapping: [mem 0x1ec000000-0x1efdfffff]
+ [mem 0x1ec000000-0x1efdfffff] page 2M
+init_memory_mapping: [mem 0x180000000-0x1ebffffff]
+ [mem 0x180000000-0x1ebffffff] page 2M
+BRK [0x01fe6000, 0x01fe6fff] PGTABLE
+init_memory_mapping: [mem 0x00100000-0xefffffff]
+ [mem 0x00100000-0x001fffff] page 4k
+ [mem 0x00200000-0xefffffff] page 2M
+init_memory_mapping: [mem 0x100000000-0x17fffffff]
+ [mem 0x100000000-0x17fffffff] page 2M
+BRK [0x01fe7000, 0x01fe7fff] PGTABLE
+RAMDISK: [mem 0x37214000-0x37901fff]
+ACPI: RSDP 00000000000ea020 000024 (v02    Xen)
+ACPI: XSDT 00000000fc00f5a0 000054 (v01    Xen      HVM 00000000 HVML 00000000)
+ACPI: FACP 00000000fc00f260 0000F4 (v04    Xen      HVM 00000000 HVML 00000000)
+ACPI: DSDT 00000000fc0035e0 00BBF6 (v02    Xen      HVM 00000000 INTL 20090123)
+ACPI: FACS 00000000fc0035a0 000040
+ACPI: APIC 00000000fc00f360 0000D8 (v02    Xen      HVM 00000000 HVML 00000000)
+ACPI: HPET 00000000fc00f4b0 000038 (v01    Xen      HVM 00000000 HVML 00000000)
+ACPI: WAET 00000000fc00f4f0 000028 (v01    Xen      HVM 00000000 HVML 00000000)
+ACPI: SSDT 00000000fc00f520 000031 (v02    Xen      HVM 00000000 INTL 20090123)
+ACPI: SSDT 00000000fc00f560 000031 (v02    Xen      HVM 00000000 INTL 20090123)
+ACPI: Local APIC address 0xfee00000
+No NUMA configuration found
+Faking a node at [mem 0x0000000000000000-0x00000001efffffff]
+Initmem setup node 0 [mem 0x00000000-0x1efffffff]
+  NODE_DATA [mem 0x1efff7000-0x1efffbfff]
+ [ffffea0000000000-ffffea0007bfffff] PMD -> [ffff8801e7e00000-ffff8801ef5fffff] on node 0
+Zone ranges:
+  DMA      [mem 0x00001000-0x00ffffff]
+  DMA32    [mem 0x01000000-0xffffffff]
+  Normal   [mem 0x100000000-0x1efffffff]
+Movable zone start for each node
+Early memory node ranges
+  node   0: [mem 0x00001000-0x0009dfff]
+  node   0: [mem 0x00100000-0xefffffff]
+  node   0: [mem 0x100000000-0x1efffffff]
+On node 0 totalpages: 1965981
+  DMA zone: 64 pages used for memmap
+  DMA zone: 21 pages reserved
+  DMA zone: 3997 pages, LIFO batch:0
+  DMA32 zone: 15296 pages used for memmap
+  DMA32 zone: 978944 pages, LIFO batch:31
+  Normal zone: 15360 pages used for memmap
+  Normal zone: 983040 pages, LIFO batch:31
+ACPI: PM-Timer IO Port: 0xb008
+ACPI: Local APIC address 0xfee00000
+ACPI: LAPIC (acpi_id[0x00] lapic_id[0x00] enabled)
+ACPI: LAPIC (acpi_id[0x01] lapic_id[0x01] enabled)
+ACPI: LAPIC (acpi_id[0x02] lapic_id[0x00] disabled)
+ACPI: LAPIC (acpi_id[0x03] lapic_id[0x00] disabled)
+ACPI: LAPIC (acpi_id[0x04] lapic_id[0x00] disabled)
+ACPI: LAPIC (acpi_id[0x05] lapic_id[0x00] disabled)
+ACPI: LAPIC (acpi_id[0x06] lapic_id[0x00] disabled)
+ACPI: LAPIC (acpi_id[0x07] lapic_id[0x00] disabled)
+ACPI: LAPIC (acpi_id[0x08] lapic_id[0x00] disabled)
+ACPI: LAPIC (acpi_id[0x09] lapic_id[0x00] disabled)
+ACPI: LAPIC (acpi_id[0x0a] lapic_id[0x00] disabled)
+ACPI: LAPIC (acpi_id[0x0b] lapic_id[0x00] disabled)
+ACPI: LAPIC (acpi_id[0x0c] lapic_id[0x00] disabled)
+ACPI: LAPIC (acpi_id[0x0d] lapic_id[0x00] disabled)
+ACPI: LAPIC (acpi_id[0x0e] lapic_id[0x00] disabled)
+ACPI: IOAPIC (id[0x01] address[0xfec00000] gsi_base[0])
+IOAPIC[0]: apic_id 1, version 17, address 0xfec00000, GSI 0-47
+ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+ACPI: INT_SRC_OVR (bus 0 bus_irq 5 global_irq 5 low level)
+ACPI: INT_SRC_OVR (bus 0 bus_irq 10 global_irq 10 low level)
+ACPI: INT_SRC_OVR (bus 0 bus_irq 11 global_irq 11 low level)
+ACPI: IRQ0 used by override.
+ACPI: IRQ2 used by override.
+ACPI: IRQ5 used by override.
+ACPI: IRQ9 used by override.
+ACPI: IRQ10 used by override.
+ACPI: IRQ11 used by override.
+Using ACPI (MADT) for SMP configuration information
+ACPI: HPET id: 0x8086a201 base: 0xfed00000
+smpboot: Allowing 15 CPUs, 13 hotplug CPUs
+nr_irqs_gsi: 64
+PM: Registered nosave memory: [mem 0x0009e000-0x0009ffff]
+PM: Registered nosave memory: [mem 0x000a0000-0x000dffff]
+PM: Registered nosave memory: [mem 0x000e0000-0x000fffff]
+PM: Registered nosave memory: [mem 0xf0000000-0xfbffffff]
+PM: Registered nosave memory: [mem 0xfc000000-0xffffffff]
+e820: [mem 0xf0000000-0xfbffffff] available for PCI devices
+Booting paravirtualized kernel on Xen HVM
+setup_percpu: NR_CPUS:256 nr_cpumask_bits:256 nr_cpu_ids:15 nr_node_ids:1
+PERCPU: Embedded 28 pages/cpu @ffff8801efc00000 s82368 r8192 d24128 u131072
+pcpu-alloc: s82368 r8192 d24128 u131072 alloc=1*2097152
+pcpu-alloc: [0] 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 -- 
+xen: PV spinlocks enabled
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 1935240
+Policy zone: Normal
+Kernel command line: BOOT_IMAGE=/boot/vmlinuz-3.13.0-48-generic root=UUID=877c5daf-9427-49e3-8656-437c3f30fc84 ro console=tty1 console=ttyS0
+PID hash table entries: 4096 (order: 3, 32768 bytes)
+xsave: enabled xstate_bv 0x7, cntxt size 0x340
+Checking aperture...
+No AGP bridge found
+Calgary: detecting Calgary via BIOS EBDA area
+Calgary: Unable to locate Rio Grande table in EBDA - bailing!
+Memory: 7649560K/7863924K available (7385K kernel code, 1145K rwdata, 3408K rodata, 1336K init, 1444K bss, 214364K reserved)
+SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=15, Nodes=1
+Hierarchical RCU implementation.
+	RCU dyntick-idle grace-period acceleration is enabled.
+	RCU restricting CPUs from NR_CPUS=256 to nr_cpu_ids=15.
+	Offload RCU callbacks from all CPUs
+	Offload RCU callbacks from CPUs: 0-14.
+NR_IRQS:16640 nr_irqs:1208 16
+xen:events: Xen HVM callback vector for event delivery is enabled
+Console: colour VGA+ 80x25
+console [tty1] enabled
+console [ttyS0] enabled
+allocated 31457280 bytes of page_cgroup
+please try 'cgroup_disable=memory' option if you don't want memory cgroups
+hpet clockevent registered
+tsc: Detected 2500.084 MHz processor
+Calibrating delay loop (skipped), value calculated using timer frequency.. 5000.16 BogoMIPS (lpj=10000336)
+pid_max: default: 32768 minimum: 301
+Security Framework initialized
+AppArmor: AppArmor initialized
+Yama: becoming mindful.
+Dentry cache hash table entries: 1048576 (order: 11, 8388608 bytes)
+Inode-cache hash table entries: 524288 (order: 10, 4194304 bytes)
+Mount-cache hash table entries: 16384 (order: 5, 131072 bytes)
+Mountpoint-cache hash table entries: 16384 (order: 5, 131072 bytes)
+Initializing cgroup subsys memory
+Initializing cgroup subsys devices
+Initializing cgroup subsys freezer
+Initializing cgroup subsys blkio
+Initializing cgroup subsys perf_event
+Initializing cgroup subsys hugetlb
+CPU: Physical Processor ID: 0
+mce: CPU supports 2 MCE banks
+Last level iTLB entries: 4KB 512, 2MB 0, 4MB 0
+Last level dTLB entries: 4KB 512, 2MB 0, 4MB 0
+tlb_flushall_shift: 6
+Freeing SMP alternatives memory: 32K (ffffffff81e6e000 - ffffffff81e76000)
+ACPI: Core revision 20131115
+ACPI: All ACPI Tables successfully acquired
+ftrace: allocating 28562 entries in 112 pages
+Switched APIC routing to physical flat.
+..TIMER: vector=0x30 apic1=0 pin1=2 apic2=0 pin2=0
+smpboot: CPU0: Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz (fam: 06, model: 3e, stepping: 04)
+Xen: using vcpuop timer interface
+installing Xen timer for CPU 0
+cpu 0 spinlock event irq 69
+Performance Events: unsupported p6 CPU model 62 no PMU driver, software events only.
+NMI watchdog: disabled (cpu0): hardware events not enabled
+installing Xen timer for CPU 1
+x86: Booting SMP configuration:
+.... node  #0, CPUs:        #1cpu 1 spinlock event irq 75
+x86: Booted up 1 node, 2 CPUs
+smpboot: Total of 2 processors activated (10000.33 BogoMIPS)
+devtmpfs: initialized
+EVM: security.selinux
+EVM: security.SMACK64
+EVM: security.ima
+EVM: security.capability
+pinctrl core: initialized pinctrl subsystem
+regulator-dummy: no parameters
+RTC time: 21:05:56, date: 05/18/15
+NET: Registered protocol family 16
+cpuidle: using governor ladder
+cpuidle: using governor menu
+ACPI: bus type PCI registered
+acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+PCI: Using configuration type 1 for base access
+bio: create slab <bio-0> at 0
+ACPI: Added _OSI(Module Device)
+ACPI: Added _OSI(Processor Device)
+ACPI: Added _OSI(3.0 _SCP Extensions)
+ACPI: Added _OSI(Processor Aggregator Device)
+ACPI: Interpreter enabled
+ACPI Exception: AE_NOT_FOUND, While evaluating Sleep State [\_S1_] (20131115/hwxface-580)
+ACPI Exception: AE_NOT_FOUND, While evaluating Sleep State [\_S2_] (20131115/hwxface-580)
+ACPI: (supports S0 S3 S4 S5)
+ACPI: Using IOAPIC for interrupt routing
+PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+ACPI: No dock devices found.
+ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+acpi PNP0A03:00: _OSC: OS supports [ASPM ClockPM Segments MSI]
+acpi PNP0A03:00: _OSC failed (AE_NOT_FOUND); disabling ASPM
+acpi PNP0A03:00: fail to add MMCONFIG information, can't access extended PCI configuration space under this bridge.
+acpiphp: Slot [0] registered
+acpiphp: Slot [3] registered
+acpiphp: Slot [4] registered
+acpiphp: Slot [5] registered
+acpiphp: Slot [6] registered
+acpiphp: Slot [7] registered
+acpiphp: Slot [8] registered
+acpiphp: Slot [9] registered
+acpiphp: Slot [10] registered
+acpiphp: Slot [11] registered
+acpiphp: Slot [12] registered
+acpiphp: Slot [13] registered
+acpiphp: Slot [14] registered
+acpiphp: Slot [15] registered
+acpiphp: Slot [16] registered
+acpiphp: Slot [17] registered
+acpiphp: Slot [18] registered
+acpiphp: Slot [19] registered
+acpiphp: Slot [20] registered
+acpiphp: Slot [21] registered
+acpiphp: Slot [22] registered
+acpiphp: Slot [23] registered
+acpiphp: Slot [24] registered
+acpiphp: Slot [25] registered
+acpiphp: Slot [26] registered
+acpiphp: Slot [27] registered
+acpiphp: Slot [28] registered
+acpiphp: Slot [29] registered
+acpiphp: Slot [30] registered
+acpiphp: Slot [31] registered
+PCI host bridge to bus 0000:00
+pci_bus 0000:00: root bus resource [bus 00-ff]
+pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7]
+pci_bus 0000:00: root bus resource [io  0x0d00-0xffff]
+pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff]
+pci_bus 0000:00: root bus resource [mem 0xf0000000-0xfbffffff]
+pci 0000:00:00.0: [8086:1237] type 00 class 0x060000
+pci 0000:00:01.0: [8086:7000] type 00 class 0x060100
+pci 0000:00:01.1: [8086:7010] type 00 class 0x010180
+pci 0000:00:01.1: reg 0x20: [io  0xc100-0xc10f]
+pci 0000:00:01.3: [8086:7113] type 00 class 0x068000
+* Found PM-Timer Bug on the chipset. Due to workarounds for a bug,
+* this clock source is slow. Consider trying other clock sources
+pci 0000:00:01.3: quirk: [io  0xb000-0xb03f] claimed by PIIX4 ACPI
+pci 0000:00:02.0: [1013:00b8] type 00 class 0x030000
+pci 0000:00:02.0: reg 0x10: [mem 0xf0000000-0xf1ffffff pref]
+pci 0000:00:02.0: reg 0x14: [mem 0xf3000000-0xf3000fff]
+pci 0000:00:03.0: [5853:0001] type 00 class 0xff8000
+pci 0000:00:03.0: reg 0x10: [io  0xc000-0xc0ff]
+pci 0000:00:03.0: reg 0x14: [mem 0xf2000000-0xf2ffffff pref]
+ACPI: PCI Interrupt Link [LNKA] (IRQs *5 10 11)
+ACPI: PCI Interrupt Link [LNKB] (IRQs 5 *10 11)
+ACPI: PCI Interrupt Link [LNKC] (IRQs 5 10 *11)
+ACPI: PCI Interrupt Link [LNKD] (IRQs *5 10 11)
+ACPI: Enabled 2 GPEs in block 00 to 0F
+ACPI: \_SB_.PCI0: notify handler is installed
+Found 1 acpi root devices
+xen:balloon: Initialising balloon driver
+xen_balloon: Initialising balloon driver
+init_memory_mapping: [mem 0x1f0000000-0x1f7ffffff]
+ [mem 0x1f0000000-0x1f7ffffff] page 2M
+vgaarb: setting as boot device: PCI:0000:00:02.0
+vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+vgaarb: loaded
+vgaarb: bridge control possible 0000:00:02.0
+SCSI subsystem initialized
+libata version 3.00 loaded.
+ACPI: bus type USB registered
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+PCI: Using ACPI for IRQ routing
+PCI: pci_cache_line_size set to 64 bytes
+e820: reserve RAM buffer [mem 0x0009e000-0x0009ffff]
+NetLabel: Initializing
+NetLabel:  domain hash size = 128
+NetLabel:  protocols = UNLABELED CIPSOv4
+NetLabel:  unlabeled traffic allowed by default
+HPET: 3 timers in total, 0 timers will be used for per-cpu timer
+hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0
+hpet0: 3 comparators, 64-bit 62.500000 MHz counter
+Switched to clocksource xen
+AppArmor: AppArmor Filesystem Enabled
+pnp: PnP ACPI init
+ACPI: bus type PNP registered
+system 00:00: [mem 0x00000000-0x0009ffff] could not be reserved
+system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+pnp 00:01: Plug and Play ACPI device, IDs PNP0103 (active)
+system 00:02: [io  0x08a0-0x08a3] has been reserved
+system 00:02: [io  0x0cc0-0x0ccf] has been reserved
+system 00:02: [io  0x04d0-0x04d1] has been reserved
+system 00:02: Plug and Play ACPI device, IDs PNP0c02 (active)
+pnp 00:03: [dma 4]
+pnp 00:03: Plug and Play ACPI device, IDs PNP0200 (active)
+xen: --> pirq=16 -> irq=8 (gsi=8)
+pnp 00:04: Plug and Play ACPI device, IDs PNP0b00 (active)
+pnp 00:05: Plug and Play ACPI device, IDs PNP0800 (active)
+xen: --> pirq=17 -> irq=12 (gsi=12)
+pnp 00:06: Plug and Play ACPI device, IDs PNP0f13 (active)
+xen: --> pirq=18 -> irq=1 (gsi=1)
+pnp 00:07: Plug and Play ACPI device, IDs PNP0303 PNP030b (active)
+xen: --> pirq=19 -> irq=6 (gsi=6)
+pnp 00:08: [dma 2]
+pnp 00:08: Plug and Play ACPI device, IDs PNP0700 (active)
+xen: --> pirq=20 -> irq=4 (gsi=4)
+pnp 00:09: Plug and Play ACPI device, IDs PNP0501 (active)
+system 00:0a: [io  0x10c0-0x1141] has been reserved
+system 00:0a: [io  0xb044-0xb047] has been reserved
+system 00:0a: Plug and Play ACPI device, IDs PNP0c02 (active)
+pnp: PnP ACPI: found 11 devices
+ACPI: bus type PNP unregistered
+pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7]
+pci_bus 0000:00: resource 5 [io  0x0d00-0xffff]
+pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff]
+pci_bus 0000:00: resource 7 [mem 0xf0000000-0xfbffffff]
+NET: Registered protocol family 2
+TCP established hash table entries: 65536 (order: 7, 524288 bytes)
+TCP bind hash table entries: 65536 (order: 8, 1048576 bytes)
+TCP: Hash tables configured (established 65536 bind 65536)
+TCP: reno registered
+UDP hash table entries: 4096 (order: 5, 131072 bytes)
+UDP-Lite hash table entries: 4096 (order: 5, 131072 bytes)
+NET: Registered protocol family 1
+pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+pci 0000:00:01.0: PIIX3: Enabling Passive Release
+pci 0000:00:01.0: Activating ISA DMA hang workarounds
+pci 0000:00:02.0: Video device with shadowed ROM
+PCI: CLS 0 bytes, default 64
+Trying to unpack rootfs image as initramfs...
+Freeing initrd memory: 7096K (ffff880037214000 - ffff880037902000)
+PCI-DMA: Using software bounce buffering for IO (SWIOTLB)
+software IO TLB [mem 0xec000000-0xf0000000] (64MB) mapped at [ffff8800ec000000-ffff8800efffffff]
+microcode: CPU0 sig=0x306e4, pf=0x1, revision=0x415
+microcode: CPU1 sig=0x306e4, pf=0x1, revision=0x415
+microcode: Microcode Update Driver: v2.00 <tigran@aivazian.fsnet.co.uk>, Peter Oruba
+Scanning for low memory corruption every 60 seconds
+Initialise system trusted keyring
+audit: initializing netlink socket (disabled)
+type=2000 audit(1431983156.732:1): initialized
+HugeTLB registered 2 MB page size, pre-allocated 0 pages
+zbud: loaded
+VFS: Disk quotas dquot_6.5.2
+Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+fuse init (API version 7.22)
+msgmni has been set to 14954
+Key type big_key registered
+Key type asymmetric registered
+Asymmetric key parser 'x509' registered
+Block layer SCSI generic (bsg) driver version 0.4 loaded (major 252)
+io scheduler noop registered
+io scheduler deadline registered (default)
+io scheduler cfq registered
+pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+intel_idle: does not run on family 6 model 62
+ipmi message handler version 39.2
+input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+ACPI: Power Button [PWRF]
+input: Sleep Button as /devices/LNXSYSTM:00/LNXSLPBN:00/input/input1
+ACPI: Sleep Button [SLPF]
+GHES: HEST is not enabled!
+xen: --> pirq=21 -> irq=28 (gsi=28)
+xen:grant_table: Grant tables using version 1 layout
+Grant table initialized
+00:09: ttyS0 at I/O 0x3f8 (irq = 4, base_baud = 115200) is a 16550A
+Linux agpgart interface v0.103
+brd: module loaded
+loop: module loaded
+ata_piix 0000:00:01.1: version 2.13
+scsi0 : ata_piix
+scsi1 : ata_piix
+ata1: PATA max MWDMA2 cmd 0x1f0 ctl 0x3f6 bmdma 0xc100 irq 14
+ata2: PATA max MWDMA2 cmd 0x170 ctl 0x376 bmdma 0xc108 irq 15
+blkfront: xvda: barrier or flush: disabled; persistent grants: disabled; indirect descriptors: enabled;
+ xvda: xvda1
+libphy: Fixed MDIO Bus: probed
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+PPP generic driver version 2.4.2
+xen_netfront: Initialising Xen virtual ethernet driver
+ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+ehci-pci: EHCI PCI platform driver
+ehci-platform: EHCI generic platform driver
+ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+ohci-pci: OHCI PCI platform driver
+ohci-platform: OHCI generic platform driver
+uhci_hcd: USB Universal Host Controller Interface driver
+i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f13:PS2M] at 0x60,0x64 irq 1,12
+serio: i8042 KBD port at 0x60,0x64 irq 1
+serio: i8042 AUX port at 0x60,0x64 irq 12
+mousedev: PS/2 mouse device common for all mice
+rtc_cmos 00:04: rtc core: registered rtc_cmos as rtc0
+rtc_cmos 00:04: alarms up to one day, 114 bytes nvram, hpet irqs
+input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input2
+device-mapper: uevent: version 1.0.3
+device-mapper: ioctl: 4.27.0-ioctl (2013-10-30) initialised: dm-devel@redhat.com
+ledtrig-cpu: registered to indicate activity on CPUs
+TCP: cubic registered
+NET: Registered protocol family 10
+NET: Registered protocol family 17
+Key type dns_resolver registered
+Loading compiled-in X.509 certificates
+Loaded X.509 cert 'Magrathea: Glacier signing key: 4eb2de249917cbf39cb85692e54cebade594d680'
+registered taskstats version 1
+Key type trusted registered
+Key type encrypted registered
+AppArmor: AppArmor sha1 policy hashing enabled
+IMA: No TPM chip found, activating TPM-bypass!
+xenbus_probe_frontend: Device with no driver: device/vfb/0
+regulator-dummy: disabling
+  Magic number: 15:88:96
+rtc_cmos 00:04: setting system clock to 2015-05-18 21:05:57 UTC (1431983157)
+BIOS EDD facility v0.16 2004-Jun-25, 0 devices found
+EDD information not available.
+PM: Hibernation image not present or could not be loaded.
+Freeing unused kernel memory: 1336K (ffffffff81d20000 - ffffffff81e6e000)
+Write protecting the kernel read-only data: 12288k
+Freeing unused kernel memory: 796K (ffff880001739000 - ffff880001800000)
+Freeing unused kernel memory: 688K (ffff880001b54000 - ffff880001c00000)
+systemd-udevd[133]: starting version 204
+FDC 0 is a S82078B
+tsc: Refined TSC clocksource calibration: 2499.997 MHz
+input: ImExPS/2 Generic Explorer Mouse as /devices/platform/i8042/serio1/input/input4
+EXT4-fs (xvda1): mounted filesystem with ordered data mode. Opts: (null)
+random: init urandom read with 75 bits of entropy available
+EXT4-fs (xvda1): re-mounted. Opts: discard
+random: nonblocking pool is initialized
+IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+IPv6: ADDRCONF(NETDEV_UP): lo: link is not ready
+IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+systemd-udevd[430]: starting version 204
+type=1400 audit(1431983160.754:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/sbin/dhclient" pid=498 comm="apparmor_parser"
+type=1400 audit(1431983160.754:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=498 comm="apparmor_parser"
+type=1400 audit(1431983160.754:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=498 comm="apparmor_parser"
+type=1400 audit(1431983160.754:5): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=498 comm="apparmor_parser"
+type=1400 audit(1431983160.754:6): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=498 comm="apparmor_parser"
+type=1400 audit(1431983160.754:7): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=498 comm="apparmor_parser"
+type=1400 audit(1431983160.754:8): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/sbin/dhclient" pid=504 comm="apparmor_parser"
+type=1400 audit(1431983160.754:9): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=504 comm="apparmor_parser"
+type=1400 audit(1431983160.754:10): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=504 comm="apparmor_parser"
+init: failsafe main process (749) killed by TERM signal
+audit_printk_skb: 9 callbacks suppressed
+type=1400 audit(1431983162.522:14): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/sbin/dhclient" pid=865 comm="apparmor_parser"
+type=1400 audit(1431983162.522:15): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=865 comm="apparmor_parser"
+type=1400 audit(1431983162.522:16): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=865 comm="apparmor_parser"
+type=1400 audit(1431983162.522:17): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=865 comm="apparmor_parser"
+type=1400 audit(1431983162.522:18): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=865 comm="apparmor_parser"
+type=1400 audit(1431983162.522:19): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=865 comm="apparmor_parser"
+type=1400 audit(1431983162.530:20): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/tcpdump" pid=867 comm="apparmor_parser"
+init: plymouth-upstart-bridge main process (237) killed by TERM signal

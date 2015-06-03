@@ -1,0 +1,20 @@
+Module                  Size  Used by
+dm_crypt               23177  0 
+crct10dif_pclmul       14289  0 
+syscopyarea            12529  0 
+sysfillrect            12701  0 
+sysimgblt              12640  0 
+fb_sys_fops            12703  0 
+crc32_pclmul           13113  0 
+ghash_clmulni_intel    13216  0 
+serio_raw              13462  0 
+isofs                  39837  0 
+aesni_intel            55624  0 
+aes_x86_64             17131  1 aesni_intel
+glue_helper            13990  1 aesni_intel
+lrw                    13286  1 aesni_intel
+gf128mul               14951  1 lrw
+ablk_helper            13597  1 aesni_intel
+cryptd                 20359  3 ghash_clmulni_intel,aesni_intel,ablk_helper
+floppy                 69418  0 
+psmouse               106714  0 

@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Phoronix Test Suite v5.6.0 (Dedilovo) [ http://www.phoronix-test-suite.com/ ]-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" font-family="sans-serif" viewbox="0 0 252 1221" width="252" height="1221" preserveAspectRatio="xMinYMin meet">
+  <rect x="1" y="1" width="250" height="1220" fill="#FEFEFE" stroke="#757575" stroke-width="1"/>
+  <rect x="1" y="1" width="251" height="1220" fill="#FEFEFE" stroke="#757575" stroke-width="1"/>
+  <a xlink:href="http://www.phoronix-test-suite.com/" xlink:show="new">
+    <image xlink:href="data:image/png;base64,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" x="35" y="82" width="80" height="42"/>
+  </a>
+  <line x1="150" y1="615" x2="201" y2="615" stroke="#BABABA" stroke-width="1180" stroke-dasharray="51,51"/>
+  <rect x="201" y="25" width="51" height="1180" fill="#949494"/>
+  <line x1="101" y1="181" x2="101" y2="1205" stroke="#949494" stroke-width="201" stroke-dasharray="16,16"/>
+  <line x1="150" y1="615" x2="252" y2="615" stroke="#757575" stroke-width="1180" stroke-dasharray="1,50"/>
+  <rect x="1" y="1" width="250" height="25" fill="#231f20"/>
+  <text x="5" y="19" font-size="17" fill="#FEFEFE" text-anchor="start">threaded-last</text>
+  <line x1="1" y1="25" x2="251" y2="25" stroke="#757575" stroke-width="1"/>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="193" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="209" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="225" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="241" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="257" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="273" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="289" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="305" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="321" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="337" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="353" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="369" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="385" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="401" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="417" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="433" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="449" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="465" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="481" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="497" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="513" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="529" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="545" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="561" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="577" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="593" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="609" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="625" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="641" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="657" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="673" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="689" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="705" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="721" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="737" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="753" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="769" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="785" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="801" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="817" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="833" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="849" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="865" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="881" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="897" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="913" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="929" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="945" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="961" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="977" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="993" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="1009" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="1025" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="1041" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="1057" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="1073" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="1089" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="1105" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="1121" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="1137" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="1153" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="1169" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="1185" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <a xlink:href="http://openbenchmarking.org/test/pts/tiobench-1.2.0" xlink:show="new">
+    <text x="148" y="1201" font-size="10" fill="#065695" font-weight="bold" text-anchor="end">Threaded I/O Tester</text>
+  </a>
+  <text x="178.5" y="177" font-size="10" fill="#065695" font-weight="bold" text-anchor="end" transform="rotate(90 178.5 177)">threaded-last-unique</text>
+  <text x="175.5" y="194" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 4.94%;  STD Error: 91.81">4548.91</text>
+  <text x="175.5" y="210" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.06%;  STD Error: 28.53">4663.74</text>
+  <text x="175.5" y="226" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.14%;  STD Error: 30.64">4660.09</text>
+  <text x="175.5" y="242" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.83%;  STD Error: 23.07">4818.14</text>
+  <text x="175.5" y="258" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.89%;  STD Error: 25.32">4918.04</text>
+  <text x="175.5" y="274" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.09%;  STD Error: 30.81">4907.31</text>
+  <text x="175.5" y="290" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.93%;  STD Error: 54.75">4915.59</text>
+  <text x="175.5" y="306" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 2.45%;  STD Error: 69.48">4916.98</text>
+  <text x="175.5" y="322" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 2.92%;  STD Error: 75.22">4467.19</text>
+  <text x="175.5" y="338" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.69%;  STD Error: 42.17">4313.36</text>
+  <text x="175.5" y="354" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 2.31%;  STD Error: 61.67">4626.53</text>
+  <text x="175.5" y="370" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.67%;  STD Error: 41.55">4311.35</text>
+  <text x="175.5" y="386" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.75%">0.23</text>
+  <text x="175.5" y="402" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.23%">0.25</text>
+  <text x="175.5" y="418" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.23</text>
+  <text x="175.5" y="434" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.69%">0.25</text>
+  <text x="175.5" y="450" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.14%;  STD Error: 3.77">4596.95</text>
+  <text x="175.5" y="466" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.86%;  STD Error: 21.60">4334.69</text>
+  <text x="175.5" y="482" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.38%;  STD Error: 36.85">4625.31</text>
+  <text x="175.5" y="498" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">3.20</text>
+  <text x="175.5" y="514" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.79%">0.19</text>
+  <text x="175.5" y="530" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.23%">0.25</text>
+  <text x="175.5" y="546" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.30%">0.20</text>
+  <text x="175.5" y="562" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.40%">0.25</text>
+  <text x="175.5" y="578" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.23%">0.26</text>
+  <text x="175.5" y="594" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.22%">0.26</text>
+  <text x="175.5" y="610" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.68%">0.26</text>
+  <text x="175.5" y="626" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.26</text>
+  <text x="175.5" y="642" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.23%">0.26</text>
+  <text x="175.5" y="658" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.26</text>
+  <text x="175.5" y="674" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.39%">0.26</text>
+  <text x="175.5" y="690" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.26</text>
+  <text x="175.5" y="706" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.29%;  STD Error: 25.16">3368.32</text>
+  <text x="175.5" y="722" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.54%;  STD Error: 29.88">3352.94</text>
+  <text x="175.5" y="738" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.95%;  STD Error: 17.65">3231.39</text>
+  <text x="175.5" y="754" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.04%;  STD Error: 19.49">3255.78</text>
+  <text x="175.5" y="770" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.72%;  STD Error: 13.01">3142.29</text>
+  <text x="175.5" y="786" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.54%;  STD Error: 28.36">3186.58</text>
+  <text x="175.5" y="802" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.22%;  STD Error: 21.82">3106.05</text>
+  <text x="175.5" y="818" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.54%;  STD Error: 9.72">3146.67</text>
+  <text x="175.5" y="834" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.93%;  STD Error: 18.04">3370.74</text>
+  <text x="175.5" y="850" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.40%;  STD Error: 7.71">3350.64</text>
+  <text x="175.5" y="866" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.06%;  STD Error: 1.14">3241.31</text>
+  <text x="175.5" y="882" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.75%;  STD Error: 14.01">3226.37</text>
+  <text x="175.5" y="898" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.20</text>
+  <text x="175.5" y="914" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.24</text>
+  <text x="175.5" y="930" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.20</text>
+  <text x="175.5" y="946" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.24</text>
+  <text x="175.5" y="962" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 1.02%;  STD Error: 18.58">3160.08</text>
+  <text x="175.5" y="978" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.87%;  STD Error: 16.06">3189.05</text>
+  <text x="175.5" y="994" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 0.36%;  STD Error: 6.42">3132.81</text>
+  <text x="175.5" y="1010" font-size="10" fill="#065695" text-anchor="middle" xlink:title="STD Dev: 2.41%;  STD Error: 0.02">1.60</text>
+  <text x="175.5" y="1026" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.20</text>
+  <text x="175.5" y="1042" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.24</text>
+  <text x="175.5" y="1058" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.20</text>
+  <text x="175.5" y="1074" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.24</text>
+  <text x="175.5" y="1090" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.26</text>
+  <text x="175.5" y="1106" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.28</text>
+  <text x="175.5" y="1122" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.26</text>
+  <text x="175.5" y="1138" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.28</text>
+  <text x="175.5" y="1154" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.26</text>
+  <text x="175.5" y="1170" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.28</text>
+  <text x="175.5" y="1186" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.26</text>
+  <text x="175.5" y="1202" font-size="10" fill="#065695" text-anchor="middle" xlink:title="">0.28</text>
+  <line x1="101" y1="181" x2="101" y2="1205" stroke="#949494" stroke-width="201" stroke-dasharray="1,15"/>
+  <rect x="0" y="1205" width="252" height="16" fill="#231f20"/>
+  <a xlink:href="http://www.phoronix-test-suite.com/" xlink:show="new">
+    <text x="250" y="1218" font-size="10" fill="#FFFFFF" text-anchor="end" xlink:show="new">PHORONIX-TEST-SUITE.COM</text>
+  </a>
+</svg>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Phoronix Test Suite v5.6.0 (Dedilovo) [ http://www.phoronix-test-suite.com/ ]-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" font-family="sans-serif" viewbox="0 0 1000 310" width="1000" height="310" preserveAspectRatio="xMinYMin meet">
+  <rect x="1" y="1" width="998" height="309" fill="#FEFEFE" stroke="#757575" stroke-width="1"/>
+  <rect x="30" y="75.666666666667" width="10" height="10" fill="#232C16" stroke="#757575" stroke-width="1"/>
+  <text x="43" y="84.666666666667" font-size="9" fill="#232C16" text-anchor="start">stream-run-0</text>
+  <rect x="116" y="75.666666666667" width="10" height="10" fill="#F13A13" stroke="#757575" stroke-width="1"/>
+  <text x="129" y="84.666666666667" font-size="9" fill="#F13A13" text-anchor="start">stream-run-1</text>
+  <rect x="202" y="75.666666666667" width="10" height="10" fill="#593315" stroke="#757575" stroke-width="1"/>
+  <text x="215" y="84.666666666667" font-size="9" fill="#593315" text-anchor="start">stream-run-2</text>
+  <rect x="288" y="75.666666666667" width="10" height="10" fill="#93AA00" stroke="#757575" stroke-width="1"/>
+  <text x="301" y="84.666666666667" font-size="9" fill="#93AA00" text-anchor="start">stream-run-3</text>
+  <rect x="374" y="75.666666666667" width="10" height="10" fill="#7F180D" stroke="#757575" stroke-width="1"/>
+  <text x="387" y="84.666666666667" font-size="9" fill="#7F180D" text-anchor="start">stream-run-4</text>
+  <rect x="460" y="75.666666666667" width="10" height="10" fill="#F4C800" stroke="#757575" stroke-width="1"/>
+  <text x="473" y="84.666666666667" font-size="9" fill="#F4C800" text-anchor="start">stream-run-5</text>
+  <rect x="546" y="75.666666666667" width="10" height="10" fill="#B32851" stroke="#757575" stroke-width="1"/>
+  <text x="559" y="84.666666666667" font-size="9" fill="#B32851" text-anchor="start">stream-run-6</text>
+  <rect x="632" y="75.666666666667" width="10" height="10" fill="#FF8E00" stroke="#757575" stroke-width="1"/>
+  <text x="645" y="84.666666666667" font-size="9" fill="#FF8E00" text-anchor="start">stream-run-7</text>
+  <rect x="718" y="75.666666666667" width="10" height="10" fill="#53377A" stroke="#757575" stroke-width="1"/>
+  <text x="731" y="84.666666666667" font-size="9" fill="#53377A" text-anchor="start">stream-run-8</text>
+  <rect x="804" y="75.666666666667" width="10" height="10" fill="#FF7A5C" stroke="#757575" stroke-width="1"/>
+  <text x="817" y="84.666666666667" font-size="9" fill="#FF7A5C" text-anchor="start">stream-run-9</text>
+  <rect x="30" y="103.66666666667" width="960" height="120" fill="#BABABA" stroke="#757575" stroke-width="1"/>
+  <a xlink:href="http://www.phoronix-test-suite.com/" xlink:show="new">
+    <text x="988" y="115.66666666667" font-size="10" fill="#065695" text-anchor="end" xlink:show="new">PHORONIX-TEST-SUITE.COM</text>
+  </a>
+  <line x1="41" y1="205" x2="990" y2="205" stroke="#949494" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="30" y1="205" x2="990" y2="205" stroke="#757575" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="26" y1="205" x2="34" y2="205" stroke="#757575" stroke-width="1"/>
+  <line x1="41" y1="185" x2="990" y2="185" stroke="#949494" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="30" y1="185" x2="990" y2="185" stroke="#757575" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="26" y1="185" x2="34" y2="185" stroke="#757575" stroke-width="1"/>
+  <line x1="41" y1="165" x2="990" y2="165" stroke="#949494" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="30" y1="165" x2="990" y2="165" stroke="#757575" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="26" y1="165" x2="34" y2="165" stroke="#757575" stroke-width="1"/>
+  <line x1="41" y1="145" x2="990" y2="145" stroke="#949494" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="30" y1="145" x2="990" y2="145" stroke="#757575" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="26" y1="145" x2="34" y2="145" stroke="#757575" stroke-width="1"/>
+  <line x1="41" y1="125" x2="990" y2="125" stroke="#949494" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="30" y1="125" x2="990" y2="125" stroke="#757575" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="26" y1="125" x2="34" y2="125" stroke="#757575" stroke-width="1"/>
+  <text x="78" y="227" font-size="6.5" fill="#231f20" text-anchor="middle" dominant-baseline="text-before-edge">Stream</text>
+  <rect x="39.6" y="105" width="7" height="119" fill="#232C16" stroke="#949494" stroke-width="1"/>
+  <rect x="46.6" y="105" width="7" height="119" fill="#F13A13" stroke="#949494" stroke-width="1"/>
+  <rect x="53.6" y="105" width="7" height="119" fill="#593315" stroke="#949494" stroke-width="1"/>
+  <rect x="60.6" y="105" width="7" height="119" fill="#93AA00" stroke="#949494" stroke-width="1"/>
+  <rect x="67.6" y="105" width="7" height="119" fill="#7F180D" stroke="#949494" stroke-width="1"/>
+  <rect x="74.6" y="105" width="7" height="119" fill="#F4C800" stroke="#949494" stroke-width="1"/>
+  <rect x="81.6" y="105" width="7" height="119" fill="#B32851" stroke="#949494" stroke-width="1"/>
+  <rect x="88.6" y="105" width="7" height="119" fill="#FF8E00" stroke="#949494" stroke-width="1"/>
+  <rect x="95.6" y="105" width="7" height="119" fill="#53377A" stroke="#949494" stroke-width="1"/>
+  <rect x="102.6" y="105" width="7" height="119" fill="#FF7A5C" stroke="#949494" stroke-width="1"/>
+  <text x="174" y="227" font-size="6.5" fill="#231f20" text-anchor="middle" dominant-baseline="text-before-edge">Stream</text>
+  <rect x="135.6" y="105" width="7" height="119" fill="#232C16" stroke="#949494" stroke-width="1"/>
+  <rect x="142.6" y="105" width="7" height="119" fill="#F13A13" stroke="#949494" stroke-width="1"/>
+  <rect x="149.6" y="105" width="7" height="119" fill="#593315" stroke="#949494" stroke-width="1"/>
+  <rect x="156.6" y="105" width="7" height="119" fill="#93AA00" stroke="#949494" stroke-width="1"/>
+  <rect x="163.6" y="105" width="7" height="119" fill="#7F180D" stroke="#949494" stroke-width="1"/>
+  <rect x="170.6" y="105" width="7" height="119" fill="#F4C800" stroke="#949494" stroke-width="1"/>
+  <rect x="177.6" y="105" width="7" height="119" fill="#B32851" stroke="#949494" stroke-width="1"/>
+  <rect x="184.6" y="105" width="7" height="119" fill="#FF8E00" stroke="#949494" stroke-width="1"/>
+  <rect x="191.6" y="105" width="7" height="119" fill="#53377A" stroke="#949494" stroke-width="1"/>
+  <rect x="198.6" y="105" width="7" height="119" fill="#FF7A5C" stroke="#949494" stroke-width="1"/>
+  <text x="270" y="227" font-size="6.5" fill="#231f20" text-anchor="middle" dominant-baseline="text-before-edge">Stream</text>
+  <rect x="231.6" y="105" width="7" height="119" fill="#232C16" stroke="#949494" stroke-width="1"/>
+  <rect x="238.6" y="105" width="7" height="119" fill="#F13A13" stroke="#949494" stroke-width="1"/>
+  <rect x="245.6" y="105" width="7" height="119" fill="#593315" stroke="#949494" stroke-width="1"/>
+  <rect x="252.6" y="105" width="7" height="119" fill="#93AA00" stroke="#949494" stroke-width="1"/>
+  <rect x="259.6" y="105" width="7" height="119" fill="#7F180D" stroke="#949494" stroke-width="1"/>
+  <rect x="266.6" y="105" width="7" height="119" fill="#F4C800" stroke="#949494" stroke-width="1"/>
+  <rect x="273.6" y="105" width="7" height="119" fill="#B32851" stroke="#949494" stroke-width="1"/>
+  <rect x="280.6" y="105" width="7" height="119" fill="#FF8E00" stroke="#949494" stroke-width="1"/>
+  <rect x="287.6" y="105" width="7" height="119" fill="#53377A" stroke="#949494" stroke-width="1"/>
+  <rect x="294.6" y="105" width="7" height="119" fill="#FF7A5C" stroke="#949494" stroke-width="1"/>
+  <text x="366" y="227" font-size="6.5" fill="#231f20" text-anchor="middle" dominant-baseline="text-before-edge">Stream</text>
+  <rect x="327.6" y="105" width="7" height="119" fill="#232C16" stroke="#949494" stroke-width="1"/>
+  <rect x="334.6" y="105" width="7" height="119" fill="#F13A13" stroke="#949494" stroke-width="1"/>
+  <rect x="341.6" y="105" width="7" height="119" fill="#593315" stroke="#949494" stroke-width="1"/>
+  <rect x="348.6" y="105" width="7" height="119" fill="#93AA00" stroke="#949494" stroke-width="1"/>
+  <rect x="355.6" y="105" width="7" height="119" fill="#7F180D" stroke="#949494" stroke-width="1"/>
+  <rect x="362.6" y="105" width="7" height="119" fill="#F4C800" stroke="#949494" stroke-width="1"/>
+  <rect x="369.6" y="105" width="7" height="119" fill="#B32851" stroke="#949494" stroke-width="1"/>
+  <rect x="376.6" y="105" width="7" height="119" fill="#FF8E00" stroke="#949494" stroke-width="1"/>
+  <rect x="383.6" y="105" width="7" height="119" fill="#53377A" stroke="#949494" stroke-width="1"/>
+  <rect x="390.6" y="105" width="7" height="119" fill="#FF7A5C" stroke="#949494" stroke-width="1"/>
+  <text x="495" y="19" font-size="17" fill="#231f20" text-anchor="middle" xlink:show="new">stream-bench</text>
+  <a xlink:href="http://www.phoronix-test-suite.com/" xlink:show="new">
+    <text x="990" y="100.66666666667" font-size="7" fill="#949494" text-anchor="end" xlink:show="new">Phoronix Test Suite 5.6.0</text>
+  </a>
+</svg>
